@@ -10,6 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
+Acdemic Positions
+======
+* Oct. 2018 to Present: Postdoctoral Fellow
+* Department of Physics, Temple University, Philadelphia, PA, U.S.A.
+  * Supervisors: Prof. Limei Xu and Dr. Yuki Nagata
+
+
 Education
 ======
 * B.S. in Physics, Peking University, 2013
