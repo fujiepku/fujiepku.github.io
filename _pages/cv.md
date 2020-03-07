@@ -28,7 +28,7 @@ Work experience
 ======
 * Summer 2019: Visiting Scholar
   * Department of Physics, University of California, Berkeley
-  * Supervisor: Prof. Steven G. Louie
+  * Host: Prof. Steven G. Louie and Prof. Diana Y. Qiu
 
 * Jan. 2016 -> Oct. 2016 : Exchange Student
   * Max Planck Institute for Polymer Research, Mainz, Germany
