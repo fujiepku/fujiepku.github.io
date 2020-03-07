@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "About Me"
+    url: /cv/
+    
+  - title: "Research"
+    url: /research/
+    
   - title: "Publications"
     url: /publications/
 
@@ -11,12 +17,16 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+
+  - title: "Awards"
+    url: /awards/
+  
+
+    
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
   - title: "Guide"
     url: /markdown/
