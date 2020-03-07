@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=fujie+tang"
   googlescholar    : "https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en"
   email            : "tangfujiepku@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Fujie_Tang"
   uri              :
   bitbucket        :
   codepen          :
@@ -185,6 +185,12 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  awards:
     output: true
     permalink: /:collection/:path/
 
