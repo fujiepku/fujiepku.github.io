@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, Peking University, 2013
-* Ph.D in Condense Matter Physics, Peking University, 2018
+* Ph.D in Condensed Matter Physics, Peking University, 2018
 
 Work experience
 ======
