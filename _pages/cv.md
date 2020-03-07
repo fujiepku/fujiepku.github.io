@@ -24,11 +24,11 @@ Education
   * Supervisors: Prof. Limei Xu and Dr. Yuki Nagata
 
 
-Work experience
+Work Experience
 ======
 * Summer 2019: Visiting Scholar
   * Department of Physics, University of California, Berkeley
-  * Host: Prof. Steven G. Louie and Prof. Diana Y. Qiu
+  * Host: Prof. Steven G. Louie 
 
 * Jan. 2016 -> Oct. 2016 : Exchange Student
   * Max Planck Institute for Polymer Research, Mainz, Germany
