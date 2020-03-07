@@ -5,12 +5,4 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+I am interested in molecular dynamics simulation techniques, ab initio calculation method together with experimental spectroscopy, such as sum frequency generation spectroscopy (SFG) and X-ray absorption spectroscopy (XAS) to understand the structures and dynamics of liquid water, ice, TiO2 interface, and organic materials etc.
