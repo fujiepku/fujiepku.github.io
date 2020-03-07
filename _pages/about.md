@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2018, I am an **Postdoc Fellow** in the [Prof. Xifan Wu's group](https://astro.temple.edu/~xifanwu/WuGroup.html) at [Department of Physics, Temple University](https://phys.cst.temple.edu/), Philadelphia, Pennsylvania, USA, working on the **X-ray absorption spectroscopy of water**.
+Since October 2018, I am an **Postdoc Fellow** in the [Prof. Xifan Wu's group](https://astro.temple.edu/~xifanwu/WuGroup.html) at [Department of Physics, Temple University](https://phys.cst.temple.edu/), Philadelphia, Pennsylvania, USA, working on the **ab initio modeling of water**.
 
 News
 ======
 
 **March 6, 2020**
 
-My work at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home) is now published online in **Chemical Reviews**. We present an overview of the different simulation protocols available for SFG spectra calculations, revealing the advantages and disadvantages of the different methods. Furthermore, we account for the findings through combined SFG experiments and simulations and provide future challenges for SFG experiments and simulations at different aqueous interfaces.
+My work at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home) is now published online in **Chemical Reviews**. We present an overview of the different simulation protocols available for SFG spectra calculations, revealing the advantages and disadvantages of the different methods. Furthermore, we account for the findings through combined SFG experiments and simulations, provide future challenges for SFG experiments and simulations at different aqueous interfaces.
 
 Link to paper: [https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00512](https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00512)
 
 **March 2, 2020**
 
-My work at Temple University is now published online in **Physical Review Materials**. We found that the ferroelectricity of the molecular crystal could be probed by x-ray absorption spectroscopy. This approach should be generally applicable to the new series of organic ferroelectric and antiferroelectric materials. 
+My work at Temple University is now published online in **Physical Review Materials**. We found that the ferroelectricity of the molecular crystal could be probed by X-ray absorption spectroscopy. This approach should be generally applicable to the new series of organic ferroelectric and antiferroelectric materials. 
 
 Link to paper: [https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.034401](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.034401)
 
