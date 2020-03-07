@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Fujie Tang's website"
+title: "Welcome to Fujie Tang's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
