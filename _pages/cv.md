@@ -12,8 +12,7 @@ redirect_from:
 
 Acdemic Positions
 ======
-* Oct. 2018 to Present: Postdoctoral Fellow
-* Department of Physics, Temple University, Philadelphia, PA
+* Postdoctoral Fellow, Department of Physics, Temple University, Oct. 2018 to Present.
   * Supervisor: Prof. Xifan Wu
 
 
