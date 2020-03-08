@@ -12,21 +12,22 @@ redirect_from:
 
 Acdemic Positions
 ======
-* Postdoctoral Fellow, Department of Physics, Temple University, Oct. 2018 to Present.
+* Oct. 2018 to Present: Postdoctoral Fellow, Department of Physics, Temple University, PA, USA
   * Supervisor: Prof. Xifan Wu
 
 
 Education
 ======
-* B.S. in Physics, Peking University, 2013
-* Ph.D in Condensed Matter Physics, Peking University, 2018
+* Sept. 2013 -> Jul. 2018: Ph.D in Condensed Matter Physics, Peking University, Beijing, P. R. China.
   * Supervisors: Prof. Limei Xu and Dr. Yuki Nagata
+
+* Sept. 2009 -> Jun. 2013: B.S. in Physics, Peking University, Beijing, P. R. China.
 
 
 Work Experience
 ======
-* Summer 2019: Visiting Scholar
-  * Department of Physics, University of California, Berkeley
+* Jul. 2019: Visiting Scholar
+  * Department of Physics, University of California, Berkeley, CA, USA
   * Host: Prof. Steven G. Louie 
 
 * Jan. 2016 -> Oct. 2016 : Exchange Student
