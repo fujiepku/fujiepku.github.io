@@ -15,7 +15,7 @@ News
 
 **March 6, 2020**
 
-My work at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home) is now published online in **Chemical Reviews**. We present an overview of the different simulation protocols available for SFG spectra calculations, revealing the advantages and disadvantages of the different methods. Furthermore, we account for the findings through combined SFG experiments and simulations, provide future challenges for SFG experiments and simulations at different aqueous interfaces.
+My work at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home) is now published online in **Chemical Reviews**. We present an overview of the different simulation protocols available for sum-frequency generation (SFG) spectra calculations, revealing the advantages and disadvantages of the different methods. Furthermore, we account for the findings through combined SFG experiments and simulations, provide future challenges for SFG experiments and simulations at different aqueous interfaces.
 
 Link to paper: [https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00512](https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00512)
 
