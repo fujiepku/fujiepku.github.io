@@ -33,7 +33,8 @@ Work Experience
 * Jan. 2016 -> Oct. 2016 : Exchange Student
   * Max Planck Institute for Polymer Research, Mainz, Germany
   * Supervisors: Dr. Yuki Nagata and Prof. Dr. Mischa Bonn
-  
+ 
+Here is the full [CV]](http://fujiepku.github.io/files/CV_Fujie.pdf). 
 
 
 
