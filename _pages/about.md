@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](https://sites.temple.edu/xifanwu/publications-of-xifan-wu/) at [Department of Physics, Temple University](https://phys.cst.temple.edu/), Philadelphia, Pennsylvania, USA, working on the topics of **ab initio modeling of water and theoretical spectroscopy calculations**.
+Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](https://sites.temple.edu/xifanwu/) at [Department of Physics, Temple University](https://phys.cst.temple.edu/), Philadelphia, Pennsylvania, USA, working on the topics of **ab initio modeling of water and theoretical spectroscopy calculations**.
 
 News
 ======
