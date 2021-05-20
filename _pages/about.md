@@ -14,7 +14,10 @@ News
 ======
 **May 20, 2021**
 
-I'm pleased to announce that two different book chapter I wrote will be avaiable soon. First one with Takakazu Seki, Chun-Chieh Yu, Yuki Nagata. Title is "Microscopic Structure of Ice Surface Viewed through Sum-frequency Generation Spectroscopy", in a Chapter of "Chemistry of the Cryosphere", Advances in Atmospheric Chemistry, Vol. 3, by World Scientific Publishing. Second one is with Xifan, title is "Theoretical X-ray Absorption Spectroscopy of Liquid Water Using First Principles Calculations", in a chapter of "Properties of Water from Numerical and Experimental Perspectives" by CRC Press. 
+I'm pleased to announce that two different book chapter I wrote will be avaiable soon. 
+
+** First one with Takakazu Seki, Chun-Chieh Yu, Yuki Nagata. Title is "Microscopic Structure of Ice Surface Viewed through Sum-frequency Generation Spectroscopy", in a Chapter of "Chemistry of the Cryosphere", Advances in Atmospheric Chemistry, Vol. 3, by World Scientific Publishing. 
+** Second one is with Xifan, title is "Theoretical X-ray Absorption Spectroscopy of Liquid Water Using First Principles Calculations", in a chapter of "Properties of Water from Numerical and Experimental Perspectives" by CRC Press. 
 
 
 **April 30, 2021**
