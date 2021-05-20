@@ -31,12 +31,12 @@ I gave a talk in the CSI Bi-monthly Online seminar in Princeton. It is about "Th
 I gave a talk in the APS March Online Meeting. It is about "Theoretical X-ray Absorption Spectroscopy of Liquid Water by the GW plus Bethe-Salpeter equation (GW-BSE) method".
 
 
-
 **Mar. 6, 2020**
 
 My work at [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home) is now published online in **Chemical Reviews**. We present an overview of the different simulation protocols available for sum-frequency generation (SFG) spectra calculations, revealing the advantages and disadvantages of the different methods. Furthermore, we account for the findings through combined SFG experiments and simulations, provide future challenges for SFG experiments and simulations at different aqueous interfaces.
 
 Link to paper: [https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00512](https://pubs.acs.org/doi/10.1021/acs.chemrev.9b00512)
+
 
 **Mar. 2, 2020**
 
@@ -44,16 +44,15 @@ My work at Temple University is now published online in **Physical Review Materi
 
 Link to paper: [https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.034401](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.4.034401)
 
+
 **Dec. 13, 2019**
 
 I gave a talk in the CSI Bi-monthly seminar at Temple University. It is about "Molecular Modelling of the Interfacial Water at Water-Air Interface and Ice-Air Interface". Final remark comes for my PhD work.
 
 
-
 **Jul. 19, 2019**
 
 I was invited to give a talk in Prof. Arun Majumdar's group at Department of Mechanical Engineering of Stanford University. It is about "Molecular Modelling of the Interfacial Water at Water-Air Interface and Ice-Air Interface". It is always happy to share my work to others. 
-
 
 
 **Jul. 3, 2019**
