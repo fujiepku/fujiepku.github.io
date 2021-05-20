@@ -23,7 +23,7 @@ I'm pleased to announce that two different book chapters I wrote will be avaiabl
 
 **Apr. 30, 2021**
 
-I gave a talk in the CSI Bi-monthly Online seminar in Princeton. It is about "Theoretical X-ray Absorption Spectroscopy of Liquid Water by the GW plus Bethe-Salpeter equation (GW-BSE) method". 
+I gave a talk in the CSI Bi-monthly Online Seminar in Princeton. It is about "Theoretical X-ray Absorption Spectroscopy of Liquid Water by the GW plus Bethe-Salpeter equation (GW-BSE) method". 
 
 
 **Mar. 19, 2021**
