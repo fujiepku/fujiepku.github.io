@@ -12,6 +12,15 @@ Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](ht
 
 News
 ======
+**Jun. 28, 2021**
+
+My latest work at Temple University has been accepted by **Physical Review B**. Our study indicates that NQEs plays a small but non-negligible role in predicting the electronic structure of the aqueous solvation of ions of the Hofmeister series. 
+
+Link to paper: [https://journals.aps.org/prb/accepted/fe07dOc4N8d1a832e90616e61c4b120ec2df9a23e](https://journals.aps.org/prb/accepted/fe07dOc4N8d1a832e90616e61c4b120ec2df9a23e)
+
+
+
+
 **May 20, 2021**
 
 I'm pleased to announce that two different book chapters I wrote will be avaiable soon. 
