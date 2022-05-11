@@ -12,6 +12,12 @@ Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](ht
 
 News
 ======
+**Mar. 16, 2022**
+
+I gave a talk in the 2022 APS March Meeting. It is about "First-Principles Calculations of Optical Spectra in Liquid Water using GW plus Bethe-Salpeter Equation approach". 
+
+
+
 **Jul. 8, 2021**
 
 My latest work at Temple University is now published online in **Physical Review B**. Our study indicates that NQEs plays a small but non-negligible role in predicting the electronic structure of the aqueous solvation of ions of the Hofmeister series. 
