@@ -12,6 +12,13 @@ Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](ht
 
 News
 ======
+**May 13, 2022**
+
+My work at Temple University is now published online in **Proc. Natl. Acad. Sci. U.S.A.**. In this work, we solved a long-last challenge work, whether the local structure is tetrahedral structure or not. In X-ray absorption spectroscopy, an electron–hole excitation probes the local atomic environment. The interpretation of the spectra requires challenging theoretical calculations, particularly in a system like liquid water, where quantum many-body effects and molecular disorder play an important role. Recent advances in theory and simulation make possible new calculations that are in good agreement with experiment, without recourse to commonly adopted approximations. Based on these calculations, the three features observed in the experimental spectra are unambiguously attributed to excitonic effects with different characteristic correlation lengths, which are distinctively affected by perturbations of the underlying H-bond structure induced by temperature changes and/or by isotopic substitution. The emerging picture of the water structure is fully consistent with the conventional tetrahedral model.
+
+Link to paper: [https://www.pnas.org/doi/10.1073/pnas.2201258119](https://www.pnas.org/doi/10.1073/pnas.2201258119)
+
+
 **Mar. 16, 2022**
 
 I gave a talk in the 2022 APS March Meeting. It is about "First-Principles Calculations of Optical Spectra in Liquid Water using GW plus Bethe-Salpeter Equation approach". 
