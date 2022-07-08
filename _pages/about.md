@@ -14,7 +14,7 @@ News
 ======
 **May 13, 2022**
 
-My latest work at Temple University is now published online in **Proc. Natl. Acad. Sci. U.S.A.**. In this work, we solved a long-last challenge work, whether the local structure of water is tetrahedral or not. In X-ray absorption spectroscopy (XAS), an electron–hole excitation probes the local atomic environment. The interpretation of the spectra requires challenging theoretical calculations. We report a first-principles calculation of the XAS of water that avoids the approximations of prior work. The calculated XAS spectra, and their variation with changes of temperature and/or with isotope substitution, are in good quantitative agreement with experiments. The emerging picture of the water structure is fully consistent with the conventional tetrahedral model.
+My latest work at Temple University is now published online in **Proc. Natl. Acad. Sci. U.S.A.**. In this work, we solved a long-last controversial debate, whether the local structure of water is tetrahedral or not. In X-ray absorption spectroscopy (XAS), an electron–hole excitation probes the local atomic environment. The interpretation of the spectra requires challenging theoretical calculations. We report a first-principles calculation of the XAS of water that avoids the approximations of prior work. The calculated XAS spectra, and their variation with changes of temperature and/or with isotope substitution, are in good quantitative agreement with experiments. The emerging picture of the water structure is fully consistent with the conventional tetrahedral model.
 
 Link to paper: [https://www.pnas.org/doi/10.1073/pnas.2201258119](https://www.pnas.org/doi/10.1073/pnas.2201258119)
 
