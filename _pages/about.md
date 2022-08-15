@@ -12,6 +12,19 @@ Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](ht
 
 News
 ======
+**Aug 14, 2022**
+
+I'm pleased to announce that two different book chapters I wrote finally be online. 
+
+** First chapter is with Takakazu Seki, Chun-Chieh Yu and Yuki Nagata. Title is "Microscopic Structure of Ice Surface Viewed through Sum-frequency Generation Spectroscopy", chapter 3 of "Chemistry of the Cryosphere", Advances in Atmospheric Chemistry, Vol. 3, by World Scientific Publishing. 
+
+(Nov. 05, 2021) It is finally online, please visit: [https://www.worldscientific.com/doi/10.1142/9789811230134_0003](https://www.worldscientific.com/doi/10.1142/9789811230134_0003) 
+
+** Second chapter is with Xifan. Title is "Theoretical X-ray Absorption Spectroscopy of Liquid Water Using First Principles Calculations", chapter 1 of "Properties of Water from Numerical and Experimental Perspectives" by CRC Press. 
+
+(Aug. 14, 2022) Please visit: [https://doi.org/10.1201/9780429028663](https://doi.org/10.1201/9780429028663) 
+
+
 **May 13, 2022**
 
 My latest work at Temple University is now published online in **Proc. Natl. Acad. Sci. U.S.A.**. In this work, we solved a long-last controversial debate, whether the local structure of water is tetrahedral or not. In X-ray absorption spectroscopy (XAS), an electron–hole excitation probes the local atomic environment. The interpretation of the spectra requires challenging theoretical calculations. We report a first-principles calculation of the XAS of water that avoids the approximations of prior work. The calculated XAS spectra, and their variation with changes of temperature and/or with isotope substitution, are in good quantitative agreement with experiments. The emerging picture of the water structure is fully consistent with the conventional tetrahedral model.
@@ -31,18 +44,6 @@ My work at Temple University is now published online in **Physical Review B**. O
 
 Link to paper: [https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.035117](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.035117)
 
-
-
-
-**May 20, 2021**
-
-I'm pleased to announce that two different book chapters I wrote will be avaiable soon. 
-
-** First one is with Takakazu Seki, Chun-Chieh Yu and Yuki Nagata. Title is "Microscopic Structure of Ice Surface Viewed through Sum-frequency Generation Spectroscopy", in a chapter of "Chemistry of the Cryosphere", Advances in Atmospheric Chemistry, Vol. 3, by World Scientific Publishing. 
-
-(Nov. 05, 2021) It is finally online, please visit: [https://www.worldscientific.com/doi/10.1142/9789811230134_0003](https://www.worldscientific.com/doi/10.1142/9789811230134_0003) 
-
-** Second one is with Xifan. Title is "Theoretical X-ray Absorption Spectroscopy of Liquid Water Using First Principles Calculations", in a chapter of "Properties of Water from Numerical and Experimental Perspectives" by CRC Press. 
 
 
 **Apr. 30, 2021**
