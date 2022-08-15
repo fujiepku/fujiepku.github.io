@@ -14,7 +14,7 @@ News
 ======
 **Aug 14, 2022**
 
-I'm pleased to announce that two different book chapters I wrote finally be online. 
+I'm pleased to announce that two different book chapters I wrote finally are online. 
 
 ** First chapter is with Takakazu Seki, Chun-Chieh Yu and Yuki Nagata. Title is "Microscopic Structure of Ice Surface Viewed through Sum-frequency Generation Spectroscopy", chapter 3 of "Chemistry of the Cryosphere", Advances in Atmospheric Chemistry, Vol. 3, by World Scientific Publishing. 
 
