@@ -22,7 +22,7 @@ I'm pleased to announce that two different book chapters I wrote finally are onl
 
 ** Second chapter is with Xifan Wu. Title is "Theoretical X-ray Absorption Spectroscopy of Liquid Water Using First Principles Calculations", chapter 1 of "Properties of Water from Numerical and Experimental Perspectives" by CRC Press. 
 
-(Aug. 14, 2022) Please visit: [https://doi.org/10.1201/9780429028663](https://doi.org/10.1201/9780429028663) 
+(Aug. 14, 2022) Please visit: [http://dx.doi.org/10.1201/9780429028663-1](http://dx.doi.org/10.1201/9780429028663-1) 
 
 
 **May 13, 2022**
