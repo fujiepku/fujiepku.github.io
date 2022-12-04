@@ -14,7 +14,7 @@ News
 ======
 **Dec. 02, 2022**
 
-I gave a talk in the CSI Bi-monthly Online Seminar in Princeton CSI Center. It is about "Molecular insights into optical spectroscopy of liquid water and ice". 
+I gave a talk in the CSI Bi-monthly Online Seminar at Princeton CSI Center. The title is "Molecular insights into optical spectroscopy of liquid water and ice". 
 
 
 
