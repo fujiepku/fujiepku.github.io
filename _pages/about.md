@@ -12,7 +12,7 @@ Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](ht
 
 News
 ======
-**Dec. 02, 2022**
+**Dec. 2, 2022**
 
 I gave a talk in the CSI Bi-monthly Seminar at Princeton CSI Center. The title is "Molecular insights into optical spectroscopy of liquid water and ice". 
 
