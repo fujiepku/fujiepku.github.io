@@ -14,6 +14,16 @@ Before that, I obtained my Ph.D in Physics under the supervision of [Prof. Limei
 
 News
 ======
+**Jul. 7, 2023**
+
+My latest work at Temple University is now posted online in [arxiv](https://arxiv.org/abs/2307.08215).
+
+
+**Mar. 7, 2023**
+
+I gave a talk in the APS March Meeting at Las Vegas. It is about "Molecular Insights into Optical Spectroscopy of Liquid Water and Ice".
+
+
 **Dec. 2, 2022**
 
 I gave a talk in the CSI Bi-monthly Seminar at Princeton CSI Center. The title is "Molecular insights into optical spectroscopy of liquid water and ice". 
