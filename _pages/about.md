@@ -16,7 +16,7 @@ News
 ======
 **Jul. 7, 2023**
 
-My latest work at Temple University is now posted online in [arxiv](https://arxiv.org/abs/2307.08215).
+My latest work at Temple University is now posted online in [arxiv](https://arxiv.org/abs/2307.08215). A pulished version will be announced shortly.
 
 
 **Mar. 7, 2023**
