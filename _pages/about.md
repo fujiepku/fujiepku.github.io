@@ -12,7 +12,7 @@ Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](ht
 
 Before that, I obtained my Ph.D in Physics under the supervision of [Prof. Limei Xu](https://xulm.pku.edu.cn/index.htm) from [International Center For Quantum Materials](http://icqm.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/) in 2018. During my Ph.D study, I visited [Dr. Yuki Nagata's group](https://asunaroyuki.wixsite.com/sstgroup) in [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home).
 
-Last update: 2023-07-25
+Last update: 2023-09-28
 
 News
 ======
