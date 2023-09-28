@@ -16,6 +16,11 @@ Last update: 2023-07-25
 
 News
 ======
+**Sept. 28, 2023**
+
+I am pleased to announce that I will be joining [Xiamen University](https://www.xmu.edu.cn/) as a junior professor this November.
+
+
 **Jul. 7, 2023**
 
 My latest work at Temple University is now posted online in [arxiv](https://arxiv.org/abs/2307.08215). A pulished version will be announced shortly.
