@@ -12,13 +12,14 @@ Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](ht
 
 Before that, I obtained my Ph.D in Physics under the supervision of [Prof. Limei Xu](https://xulm.pku.edu.cn/index.htm) from [International Center For Quantum Materials](http://icqm.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/) in 2018. During my Ph.D study, I visited [Dr. Yuki Nagata's group](https://asunaroyuki.wixsite.com/sstgroup) in [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home).
 
-Last update: 2023-09-28
+Last update: 2023-11-01
 
 News
 ======
 **Nov. 1, 2023**
 
-My latest work at Temple University is now published online in [Journal of Chemical Physics](https://doi.org/10.1063/5.0167999). In this work, we have successfully extended our GW-BSE apporach to the NaCl solution. In this work, the oxygen K-edge XAS spectra of the NaCl solution and pure water are computed by using a recently developed GW-Bethe-Salpeter equation approach, based on configurations modeled by path-integral molecular dynamics with the deep-learning technique. The observed changes in the XAS features of the NaCl solution, compared to those of pure water, are in good agreement between experimental and theoretical results. We provided detailed explanations for these spectral changes that occur when NaCl is solvated in pure water. Specifically, the presence of solvating ion pairs leads to localization of electron-hole excitons. Our theoretical XAS results support the theory that the effects of the solvating ions on the H-bond network are mainly confined within the first hydration shell of ions, however beyond the shell the arrangement of water molecules remains to be comparable to that observed in pure water.
+My latest work at Temple University is now published online in **Journal of Chemical Physics**. In this work, we have successfully extended our GW-BSE apporach to the NaCl solution. In this work, the oxygen K-edge XAS spectra of the NaCl solution and pure water are computed by using a recently developed GW-Bethe-Salpeter equation approach, based on configurations modeled by path-integral molecular dynamics with the deep-learning technique. The observed changes in the XAS features of the NaCl solution, compared to those of pure water, are in good agreement between experimental and theoretical results. We provided detailed explanations for these spectral changes that occur when NaCl is solvated in pure water. Specifically, the presence of solvating ion pairs leads to localization of electron-hole excitons. Our theoretical XAS results support the theory that the effects of the solvating ions on the H-bond network are mainly confined within the first hydration shell of ions, however beyond the shell the arrangement of water molecules remains to be comparable to that observed in pure water.
+Please visit: [(https://doi.org/10.1063/5.0167999)]((https://doi.org/10.1063/5.0167999))
 
 
 
