@@ -24,7 +24,7 @@ My latest work at Temple University is now published online in [Journal of Chemi
 
 **Sept. 28, 2023**
 
-I am pleased to announce that I will be joining [Xiamen University](https://www.xmu.edu.cn/) as a junior professor this November.
+I am pleased to announce that I will be joining [Xiamen University](https://www.xmu.edu.cn/) as a junior professor in next January.
 
 
 **Mar. 7, 2023**
