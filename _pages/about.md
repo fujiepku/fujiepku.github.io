@@ -16,14 +16,15 @@ Last update: 2023-09-28
 
 News
 ======
+**Nov. 1, 2023**
+
+My latest work at Temple University is now published online in [Journal of Chemical Physics](https://doi.org/10.1063/5.0167999). In this work, we have successfully extended our GW-BSE apporach to the NaCl solution. In this work, the oxygen K-edge XAS spectra of the NaCl solution and pure water are computed by using a recently developed GW-Bethe-Salpeter equation approach, based on configurations modeled by path-integral molecular dynamics with the deep-learning technique. The observed changes in the XAS features of the NaCl solution, compared to those of pure water, are in good agreement between experimental and theoretical results. We provided detailed explanations for these spectral changes that occur when NaCl is solvated in pure water. Specifically, the presence of solvating ion pairs leads to localization of electron-hole excitons. Our theoretical XAS results support the theory that the effects of the solvating ions on the H-bond network are mainly confined within the first hydration shell of ions, however beyond the shell the arrangement of water molecules remains to be comparable to that observed in pure water.
+
+
+
 **Sept. 28, 2023**
 
 I am pleased to announce that I will be joining [Xiamen University](https://www.xmu.edu.cn/) as a junior professor this November.
-
-
-**Jul. 7, 2023**
-
-My latest work at Temple University is now posted online in [arxiv](https://arxiv.org/abs/2307.08215). A pulished version will be announced shortly.
 
 
 **Mar. 7, 2023**
