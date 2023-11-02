@@ -16,11 +16,16 @@ Last update: 2023-11-01
 
 News
 ======
+**Nov. 2, 2023**
+**Student recruitment 招生**: I am looking for motivated PhD, postdoc, and research assistant/undergraduate intern in my group and [**嘉庚创新实验室**与**北京科学智能研究院（AISI）**联合创立的**人工智能电化学联合实验室**(AI4EC lab)](http://www.ikkem.com/newsshow3.php?cid=43&id=926). Feel free to contact me if you are interested.
+
+**Researcher recruitment 研究员岗位(嘉庚创新实验室)**： We also have openings for full time/intern researcher at AI4EC lab. Feel free to contact me if you are interested.
+
 **Nov. 1, 2023**
 
-My latest work at Temple University is now published online in **Journal of Chemical Physics**. In this work, we have successfully extended our GW-BSE apporach to the NaCl solution. The observed changes in the XAS features of the NaCl solution, compared to those of pure water, are in good agreement between experimental and theoretical results. We provided detailed explanations for these spectral changes that occur when NaCl is solvated in pure water. Specifically, the presence of solvating ion pairs leads to localization of electron-hole excitons. Our theoretical XAS results support the theory that the effects of the solvating ions on the H-bond network are mainly confined within the first hydration shell of ions, however beyond the shell the arrangement of water molecules remains to be comparable to that observed in pure water.
+My latest work at Temple University is now published online in **Journal of Chemical Physics**. In this work, we have successfully extended our GW-BSE apporach to the NaCl solution. The observed changes in the XAS features of the NaCl solution, compared to those of pure water, are in good agreement between experimental and theoretical results. We provided detailed explanations for these spectral changes that occur when NaCl is solvated in pure water. Specifically, the presence of solvating ion pairs leads to localization of electron-hole excitons.
 
-Link to paper: [https://doi.org/10.1063/5.0167999](https://doi.org/10.1063/5.0167999)
+Link to paper: [https://doi.org/10.1063/5.0167999.](https://doi.org/10.1063/5.0167999)
 
 
 
