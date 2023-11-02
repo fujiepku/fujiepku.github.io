@@ -20,7 +20,7 @@ News
 
 My latest work at Temple University is now published online in **Journal of Chemical Physics**. In this work, we have successfully extended our GW-BSE apporach to the NaCl solution. The observed changes in the XAS features of the NaCl solution, compared to those of pure water, are in good agreement between experimental and theoretical results. We provided detailed explanations for these spectral changes that occur when NaCl is solvated in pure water. Specifically, the presence of solvating ion pairs leads to localization of electron-hole excitons. Our theoretical XAS results support the theory that the effects of the solvating ions on the H-bond network are mainly confined within the first hydration shell of ions, however beyond the shell the arrangement of water molecules remains to be comparable to that observed in pure water.
 
-Link to paper: [(https://doi.org/10.1063/5.0167999)]((https://doi.org/10.1063/5.0167999))
+Link to paper: [https://doi.org/10.1063/5.0167999](https://doi.org/10.1063/5.0167999)
 
 
 
