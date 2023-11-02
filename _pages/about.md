@@ -12,7 +12,7 @@ Since October 2018, I am a **Postdoc Fellow** in the [Prof. Xifan Wu's group](ht
 
 Before that, I obtained my Ph.D in Physics under the supervision of [Prof. Limei Xu](https://xulm.pku.edu.cn/index.htm) from [International Center For Quantum Materials](http://icqm.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/) in 2018. During my Ph.D study, I visited [Dr. Yuki Nagata's group](https://asunaroyuki.wixsite.com/sstgroup) in [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home).
 
-**Student recruitment 招生**: I am looking for motivated PhD, postdoc, and research assistant/undergraduate intern in my group and [**嘉庚创新实验室**](http://www.ikkem.com/)与**北京科学智能研究院（AISI）**联合创立的[**人工智能电化学联合实验室**(AI4EC lab)](http://www.ikkem.com/newsshow3.php?cid=43&id=926). Feel free to contact me if you are interested.
+**Student recruitment 招生**: I am looking for motivated PhD, postdoc, and research assistant/undergraduate intern in my group and [**嘉庚创新实验室**](http://www.ikkem.com/)与[**北京科学智能研究院（AISI）**](https://www.aisi.ac.cn/)联合创立的[**人工智能电化学联合实验室**(AI4EC lab)](http://www.ikkem.com/newsshow3.php?cid=43&id=926). Feel free to contact me if you are interested.
 
 **Researcher recruitment 研究员岗位(嘉庚创新实验室)**： We also have openings for full time/intern researcher at AI4EC lab. Feel free to contact me if you are interested.
 
