@@ -17,7 +17,7 @@ Last update: 2023-11-01
 News
 ======
 **Nov. 2, 2023**
-**Student recruitment 招生**: I am looking for motivated PhD, postdoc, and research assistant/undergraduate intern in my group and [**嘉庚创新实验室**与**北京科学智能研究院（AISI）**联合创立的**人工智能电化学联合实验室**(AI4EC lab)](http://www.ikkem.com/newsshow3.php?cid=43&id=926). Feel free to contact me if you are interested.
+**Student recruitment 招生**: I am looking for motivated PhD, postdoc, and research assistant/undergraduate intern in my group and **嘉庚创新实验室**与**北京科学智能研究院（AISI）**联合创立的[**人工智能电化学联合实验室**(AI4EC lab)](http://www.ikkem.com/newsshow3.php?cid=43&id=926). Feel free to contact me if you are interested.
 
 **Researcher recruitment 研究员岗位(嘉庚创新实验室)**： We also have openings for full time/intern researcher at AI4EC lab. Feel free to contact me if you are interested.
 
