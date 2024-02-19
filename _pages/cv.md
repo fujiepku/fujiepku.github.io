@@ -12,7 +12,12 @@ redirect_from:
 
 Acdemic Positions
 ======
-* Oct. 2018 to Present: Postdoctoral Fellow, Department of Physics, Temple University, PA, USA
+* Jan. 2024 to present: Associate Researcher, Laboratory of AI for Electrochemistry (AI4EC Lab), Tan Kah Kee Innovation Laboratory (IKKEM), Xiamen, Fujian, China
+
+* Jan. 2024 to present: Associate Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
+
+
+* Oct. 2018 to Oct. 2023: Postdoctoral Fellow, Department of Physics, Temple University, PA, USA
   * Supervisor: Prof. Xifan Wu
 
 
