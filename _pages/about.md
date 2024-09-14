@@ -30,15 +30,6 @@ Link to paper: [Angew. Chem. Int. Ed. 2024, 63, e202319503.](https://doi.org/10.
 I gave an invited talk in the APS March Meeting at Minneapolis. It is about "Many-body effects in the X-ray absorption spectra of liquid water".
 
 
-
-**Nov. 1, 2023**
-
-My work at Temple University is now published online in **Journal of Chemical Physics**. In this work, we have successfully extended our GW-BSE apporach to the NaCl solution. The observed changes in the XAS features of the NaCl solution, compared to those of pure water, are in good agreement between experimental and theoretical results. We provided detailed explanations for these spectral changes that occur when NaCl is solvated in pure water. Specifically, the presence of solvating ion pairs leads to localization of electron-hole excitons.
-
-Link to paper: [J. Chem. Phys. 159, 174501 (2023).](https://doi.org/10.1063/5.0167999)
-
-
-
 **Jan. 8, 2024**
 
 I official joined [Xiamen University](https://www.xmu.edu.cn/) as a junior professor in next January.
