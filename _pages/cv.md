@@ -10,6 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
+Since January 2024, I am an **Associate Professor** in the [Pen-Tung Sah Institute of Micro-Nano Science and Technology](https://sbd.xmu.edu.cn/info/1096/8589.htm) at [Xiamen University](https://www.xmu.edu.cn/) and I hold a joint appointment as **Associate Researcher** in the [Laboratory of AI for Electrochemistry (AI4EC Lab)](https://ai4ec.ikkem.com/), Xiamen, Fujian, China.
+
+
+Before that, I was a Postdoc Fellow in the [Prof. Xifan Wu's group](https://sites.temple.edu/xifanwu/) at [Department of Physics, Temple University](https://phys.cst.temple.edu/), Philadelphia, Pennsylvania, USA, working on the topics of ab initio modeling of water and theoretical spectroscopy calculations from 2018 to 2023.
+
+I obtained my Ph.D in Physics under the supervision of [Prof. Limei Xu](https://xulm.pku.edu.cn/index.htm) from [International Center For Quantum Materials](http://icqm.pku.edu.cn/) in [Peking University](https://www.pku.edu.cn/) in 2018. During my Ph.D study, I visited [Dr. Yuki Nagata's group](https://asunaroyuki.wixsite.com/sstgroup) in [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home).
+
+
 Acdemic Positions
 ======
 * Jan. 2024 to present: Associate Researcher, Laboratory of AI for Electrochemistry (AI4EC Lab), Tan Kah Kee Innovation Laboratory (IKKEM), Xiamen, Fujian, China
