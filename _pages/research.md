@@ -4,21 +4,22 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-I was trained as a computational physicist and have a strong interest in applying theoretical and numerical methods to solve complex physical and chemical problems. 
+I am trained as a **computational physicist** with a strong interest for applying theoretical and numerical methods to solve **complex physical and chemical problems**.
 
-My group work focuses on utilizing molecular dynamics simulations and ab initio calculations, combined with multimodal spectroscopies such as **vibrational spectroscopy (IR, Raman, SFG)**, **excited-state spectroscopy**, **X-ray spectroscopy**, and **nuclear magnetic resonance (NMR)**.
+My research group focuses on utilizing molecular dynamics simulations and ab initio calculations, integrated with multimodal spectroscopic techniques such as **vibrational spectroscopy (IR, Raman, SFG)**, **excited-state spectroscopy**, **X-ray spectroscopy**, and **nuclear magnetic resonance (NMR)**.
 
-Our research is centered on developing and applying advanced algorithms, including artificial intelligence, theoretical chemistry, and computational physics, to explore **the intricate relationship between spectral features and microscopic structure**. 
+Our work revolves around developing and applying cutting-edge algorithms—including artificial intelligence, theoretical chemistry, and computational physics—to investigate **the intricate relationship between spectral features and microscopic structures**.
 
-We aim to gain deeper insights into the molecular structures at complex interfaces, advancing knowledge in **materials science**, **water science**, **electrochemistry**, and related fields.
-
+Through our research, we aim to advance understanding of molecular structures at complex interfaces, contributing to key fields such as **materials science**, **water science**, **electrochemistry**, and related fields.
 
 **Research Topics**
 
- * Water at the Interfaces:
+* Water at Interfaces
 
- * Materials under the Extreme Condition:
+* Materials under Extreme Conditions
 
- * Spectroscopic Properties of Battery Materials:
+* Spectroscopic Properties of Battery Materials
+
+
 
 
