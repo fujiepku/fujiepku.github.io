@@ -12,11 +12,9 @@ redirect_from:
 
 **Principal Investigator**
 
-* Dr. Fujie Tang
+* Dr. Fujie Tang, Email: [tangfujie@xmu.edu.cn](tangfujie@xmu.edu.cn)
 
-  Email: [tangfujie@xmu.edu.cn](tangfujie@xmu.edu.cn)
-
-  Office: B513-1 Wenxun Building, Xiangan Campus
+  Office: B513-1 Wenxuan Building, Xiang'an Campus
 
 **Ph.D Student**
 
