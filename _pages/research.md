@@ -15,7 +15,7 @@ We aim to gain deeper insights into the molecular structures at complex interfac
 
 **Research Topics**
 
- * Water under the Complicated Interfaces:
+ * Water at the Interfaces:
 
  * Materials under the Extreme Condition:
 
