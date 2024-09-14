@@ -39,8 +39,8 @@ Link to paper: [J. Chem. Phys. 159, 174501 (2023).](https://doi.org/10.1063/5.01
 
 
 
-**Sept. 28, 2023**
+**Jan. 8, 2024**
 
-I am pleased to announce that I will be joining [Xiamen University](https://www.xmu.edu.cn/) as a junior professor in next January.
+I official joined [Xiamen University](https://www.xmu.edu.cn/) as a junior professor in next January.
 
 
