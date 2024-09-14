@@ -4,7 +4,21 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+I was trained as a computational physicist and have a strong interest in applying theoretical and numerical methods to solve complex physical and chemical problems. 
 
-I was trained as a computational physicist. I am interested in applying theoretical numerical calculation to solve the physical/chemical problems, and focus on using the molecular dynamics simulation techniques, ab initio calculation method together with experimental spectroscopies, such as sum frequency generation spectroscopy (SFG) and X-ray absorption spectroscopy (XAS) to understand the structures and dynamics of liquid−solid and liquid−air interfaces, liquid water, ice and hydrogen-bonded organic materials, etc.
+My group work focuses on utilizing molecular dynamics simulations and ab initio calculations, combined with multimodal spectroscopies such as **vibrational spectroscopy (IR, Raman, SFG)**, **excited-state spectroscopy**, **X-ray spectroscopy**, and **nuclear magnetic resonance (NMR)**.
 
-Currently, I am working on the projects of the excited states related spectroscopic calculations of water and ice. 
+Our research is centered on developing and applying advanced algorithms, including artificial intelligence, theoretical chemistry, and computational physics, to explore **the intricate relationship between spectral features and microscopic structure**. 
+
+We aim to gain deeper insights into the molecular structures at complex interfaces, advancing knowledge in **materials science**, **water science**, **electrochemistry**, and related fields.
+
+
+**Research Topics**
+
+ * Water under the Complicated Interfaces:
+
+ * Material under the Extreme Condition:
+
+ * Spectroscopic Properties of Battery Materials:
+
+
