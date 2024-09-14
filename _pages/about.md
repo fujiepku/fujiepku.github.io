@@ -24,7 +24,6 @@ My latest work at Xiamen University is now published online in **Angew. Chem. In
 Link to paper: [Angew. Chem. Int. Ed. 2024, 63, e202319503.](https://doi.org/10.1002/anie.202319503)
 
 
-
 **Mar. 8, 2024**
 
 I gave an invited talk in the APS March Meeting at Minneapolis. It is about "Many-body effects in the X-ray absorption spectra of liquid water".
