@@ -9,7 +9,7 @@ redirect_from:
 ---
 Our group is a part of [The Laboratory of AI for Electrochemistry (AI4EC lab)](https://ai4ec.ikkem.com/). 
 
-Our research group specializes in **multimodal spectroscopic computational simulations of complex interfaces**. We focus on developing and applying advanced algorithms, including artificial intelligence, theortical chemistry and computational physics, to investigate **the intricate relationship between spectral features and microscopic structure**. 
+Our research group specializes in **multimodal spectroscopic computational simulations of complex interfaces**. We focus on developing and applying advanced algorithms to investigate **the intricate relationship between spectral features and microscopic structure**. 
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
