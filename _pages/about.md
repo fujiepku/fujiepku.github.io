@@ -31,6 +31,6 @@ I gave an invited talk in the APS March Meeting at Minneapolis. It is about "Man
 
 **Jan. 8, 2024**
 
-I official joined [Xiamen University](https://www.xmu.edu.cn/) as a junior professor in next January.
+I official joined [Xiamen University](https://www.xmu.edu.cn/) as a junior professor.
 
 
