@@ -11,8 +11,6 @@ Our group is a part of [The Laboratory of AI for Electrochemistry (AI4EC lab)](h
 
 Our research group specializes in **multimodal spectroscopic computational simulations of complex interfaces**. We focus on developing and applying advanced algorithms, including artificial intelligence, theortical chemistry and computational physics, to investigate **the intricate relationship between spectral features and microscopic structure**. 
 
-Our work encompasses a broad range of spectroscopic techniques, with particular emphasis on vibrational and excited-state spectroscopies, X-ray spectroscopies, NMR etc. 
-
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
 Last update: 2024-09-14
