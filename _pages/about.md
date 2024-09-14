@@ -19,7 +19,7 @@ News
 ======
 **Mar. 14, 2024**
 
-My latest work at Xiamen University is now published online in **Angew. Chem. Int. Ed.**. In this work, By using surface-specific HD-SFG vibrational spectroscopy, we examine water molecular structure at a freely suspended graphene/water interface, finding that the SFG response mainly arises from the topmost 1–2 water layers, with minimal contribution from the graphene itself. Graphene weakly interacts with the interfacial water by lowering the vibrational frequency of the dangling O−H group, with a very slight impact on the hydrogen-bonded O−H group.
+My latest work at Xiamen University is now published online in **Angew. Chem. Int. Ed.**. In this work, we developed aa machine learning spectroscopic methods, together with experimental collegues from Max Planck Institute for Polymer Research, examined water molecular structure at a freely suspended graphene/water interface, finding that the SFG response mainly arises from the topmost 1–2 water layers, with minimal contribution from the graphene itself. Graphene weakly interacts with the interfacial water by lowering the vibrational frequency of the dangling O−H group, with a very slight impact on the hydrogen-bonded O−H group.
 
 Link to paper: [Angew. Chem. Int. Ed. 2024, 63, e202319503.](https://doi.org/10.1002/anie.202319503)
 
