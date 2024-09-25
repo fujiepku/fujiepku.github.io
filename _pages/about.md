@@ -21,7 +21,7 @@ News
 
 My first work as last author at Xiamen University is now published online in **J. Chem. Phys.**.  In this work, we present a pathway for calculating vibrational spectra (IR, Raman, SFG) of solid-water interfaces using machine learning (ML)-accelerated methods. We employ both the dipole moment-polarizability correlation function and the surface-specific velocity-velocity correlation function approaches to calculate SFG spectra. Our results demonstrate the successful acceleration of AIMD simulations and the calculation of SFG spectra using ML methods. This advancement provides an opportunity to calculate SFG spectra for the complicated solid-water systems more rapidly and at a lower computational cost with the aid of ML.
 
-Our paper is highlighted as **JCP Editor's Pick**
+Our paper is highlighted as **JCP Editor's Pick**.
 
 Link to paper: [J. Chem. Phys., 2024, 161, 124702.](https://doi.org/10.1063/5.0230101)
 
@@ -29,7 +29,7 @@ Link to paper: [J. Chem. Phys., 2024, 161, 124702.](https://doi.org/10.1063/5.02
 
 **Mar. 14, 2024**
 
-My latest work at Xiamen University is now published online in **Angew. Chem. Int. Ed.**. In this work, we developed a machine learning spectroscopic methods, together with experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home), examined water molecular structure at a freely suspended graphene/water interface, finding that the SFG response mainly arises from the topmost 1–2 water layers, with minimal contribution from the graphene itself. Graphene weakly interacts with the interfacial water by lowering the vibrational frequency of the dangling O−H group, with a very slight impact on the hydrogen-bonded O−H group.
+My work at Xiamen University is now published online in **Angew. Chem. Int. Ed.**. In this work, we developed a machine learning spectroscopic methods, together with experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home), examined water molecular structure at a freely suspended graphene/water interface, finding that the SFG response mainly arises from the topmost 1–2 water layers, with minimal contribution from the graphene itself. Graphene weakly interacts with the interfacial water by lowering the vibrational frequency of the dangling O−H group, with a very slight impact on the hydrogen-bonded O−H group.
 
 Link to paper: [Angew. Chem. Int. Ed., 2024, 63, e202319503.](https://doi.org/10.1002/anie.202319503)
 
