@@ -21,7 +21,7 @@ News
 
 My first work as last author at Xiamen University is now published online in **J. Chem. Phys.**.  In this work, we present a pathway for calculating vibrational spectra (IR, Raman, SFG) of solid-water interfaces using machine learning (ML)-accelerated methods. We employ both the dipole moment-polarizability correlation function and the surface-specific velocity-velocity correlation function approaches to calculate SFG spectra. Our results demonstrate the successful acceleration of AIMD simulations and the calculation of SFG spectra using ML methods. This advancement provides an opportunity to calculate SFG spectra for the complicated solid-water systems more rapidly and at a lower computational cost with the aid of ML.
 
-Our paper is highlighted as **JCP Editor's Pick**.
+Our paper is in the special collection: "Festschrift in honor of Yuen-Ron Shen", and highlighted as **JCP Editor's Pick**. 
 
 Link to paper: [J. Chem. Phys., 2024, 161, 124702.](https://doi.org/10.1063/5.0230101)
 
