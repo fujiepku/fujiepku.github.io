@@ -32,3 +32,7 @@ redirect_from:
 * Mr. Suyang Zhong; Email: [33520241153406@stu.xmu.edu.cn](33520241153406@stu.xmu.edu.cn)
 * Mr. Pengwei Xu; Email: [xupengwei@stu.xmu.edu.cn](xupengwei@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
 * Mr. Pengran Bai; Email: [20420241151794@stu.xmu.edu.cn](20420241151794@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
+
+**Undergraduate Student**
+
+* Ms. Lu Cao; Email: [caolu0308@163.com](caolu0308@163.com), from Beijing University of Chemical Technology.
