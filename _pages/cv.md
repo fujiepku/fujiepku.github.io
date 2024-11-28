@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Since January 2024, I am an **Associate Professor** in the [Pen-Tung Sah Institute of Micro-Nano Science and Technology](https://sbd.xmu.edu.cn/info/1096/8589.htm) at [Xiamen University](https://www.xmu.edu.cn/), I hold a joint appointment as **Associate Researcher** in the [Laboratory of AI for Electrochemistry (AI4EC Lab)](https://ai4ec.ikkem.com/), Xiamen, Fujian, China. I am also a member of PI team of **Intelligent Computing Science** in the [Institute of Artificial Intelligence](https://iai.xmu.edu.cn/team/PI2025/xkjc/znjskx.htm) at [Xiamen University](https://www.xmu.edu.cn/).
+Since January 2024, I am an **Associate Professor** in the [Pen-Tung Sah Institute of Micro-Nano Science and Technology](https://sbd.xmu.edu.cn/info/1096/8589.htm) at [Xiamen University](https://www.xmu.edu.cn/), I hold a joint appointment as **Associate Researcher** in the [Laboratory of AI for Electrochemistry (AI4EC Lab)](https://ai4ec.ikkem.com/), Xiamen, Fujian, China. I am also a member of PI team for **Intelligent Computing Science** in the [Institute of Artificial Intelligence](https://iai.xmu.edu.cn/team/PI2025/xkjc/znjskx.htm) at [Xiamen University](https://www.xmu.edu.cn/).
 
 
 Before that, I was a Postdoc Fellow in the [Prof. Xifan Wu's group](https://sites.temple.edu/xifanwu/) at [Department of Physics, Temple University](https://phys.cst.temple.edu/), Philadelphia, Pennsylvania, USA, working on the topics of ab initio modeling of water and theoretical spectroscopy calculations from 2018 to 2023.
