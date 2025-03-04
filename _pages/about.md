@@ -13,7 +13,7 @@ Our research group specializes in **multimodal spectroscopic computational simul
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2024-09-25
+Last update: 2025-03-04
 
 **招生** 课题组仍有2025年9月入学的硕士名额一名，将依托[厦门大学人工智能研究院](https://iai.xmu.edu.cn/team/PI2025/xkjc/znjskx.htm)招生！
 
