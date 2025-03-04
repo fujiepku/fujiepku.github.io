@@ -15,8 +15,19 @@ We aim to provide deeper insights into the microscopic structures at complex int
 
 Last update: 2024-09-25
 
+**招生** 课题组仍有2025年9月入学的硕士名额一名，将依托[厦门大学人工智能研究院](https://iai.xmu.edu.cn/team/PI2025/xkjc/znjskx.htm)招生！
+
 News
 ======
+**Mar. 4, 2025**
+
+I'm thrilled to announce that two of our papers have been accepted for publication and will soon be available online !
+
+1) Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, **Fujie Tang∗**, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. Accepted by Nature Computational Science. (∗corresponding author)
+
+2) **Fujie Tang**, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. Accepted by Physical Review X. 
+
+
 **Sept. 25, 2024**
 
 My first work as last author at Xiamen University is now published online in **J. Chem. Phys.**.  In this work, we present a pathway for calculating vibrational spectra (IR, Raman, SFG) of solid-water interfaces using machine learning (ML)-accelerated methods. We employ both the dipole moment-polarizability correlation function and the surface-specific velocity-velocity correlation function approaches to calculate SFG spectra. Our results demonstrate the successful acceleration of AIMD simulations and the calculation of SFG spectra using ML methods. This advancement provides an opportunity to calculate SFG spectra for the complicated solid-water systems more rapidly and at a lower computational cost with the aid of ML.
