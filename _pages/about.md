@@ -15,7 +15,7 @@ We aim to provide deeper insights into the microscopic structures at complex int
 
 Last update: 2025-03-04
 
-**招生** 课题组仍有2025年9月入学的硕士名额一个，将依托[厦门大学人工智能研究院](https://iai.xmu.edu.cn/team/PI2025/xkjc/znjskx.htm)招生！
+**硕士招生** 课题组现仍有2025年9月入学的硕士招生名额一名，将依托[厦门大学人工智能研究院](https://iai.xmu.edu.cn/team/PI2025/xkjc/znjskx.htm)进行招生。欢迎有志于AI for Science这一交叉领域研究的同学积极申请，加入我们的团队！
 
 News
 ======
