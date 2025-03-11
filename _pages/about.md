@@ -19,6 +19,17 @@ Last update: 2025-03-04
 
 News
 ======
+**Mar. 11, 2025**
+
+My last work at Temple University is now published online in **Physical Review X**, it is also featured in **Physics Magazine** as "Viewpoint" by Prof. Davide Donadio and Prof. Giulia Galli, titled as ["Shedding Light on Water Wires"](https://physics.aps.org/articles/v18/54). 
+
+In this work, by combining molecular-dynamics simulations and calculations of optical spectra based on many-body perturbation theory, we identified a clear spectroscopic fingerprint of molecular wires. Specifically, they showed that the “charge-transfer exciton” peak at ~8 eV in the UV absorption spectrum of water stems from collective excitations in hydrogen-bonded water wires. A charge-transfer exciton is a special type of electronic excitation, where an electron on one water molecule interacts with a positively charged “hole” localized on another molecule. The strength of the hydrogen bond directly influences the degree of charge transfer between molecules, with stronger hydrogen bonds facilitating greater charge separation and providing stronger optical absorption. 
+
+Link to paper: [Phys. Rev. X 15, 011048 (2025)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.011048)
+
+The Viewpoint: [Shedding Light on Water Wires](https://physics.aps.org/articles/v18/54), **Physics** 18, 54 (2025)
+
+
 **Mar. 4, 2025**
 
 I'm thrilled to announce that two of our papers have been accepted for publication and will soon be available online !
