@@ -21,7 +21,7 @@ Highlights: 25 published papers, first/co-first/corresponding/co-corresponding a
 
 (24) Fujie Tang, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. Phys. Rev. X. 2025, 15, 011048.
 
-**Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” written by Davide Donadio and Giulia Galli.**
+ Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” written by Davide Donadio and Giulia Galli.
 
 (23) Xianglong Du, Weizhi Shao, Chenglong Bao, Linfeng Zhang, Jun Cheng∗, Fujie Tang∗. Revealing the Molecular Structures of α-Al2O3 (0001)-water Interface by Machine Learning Based Computational Vibrational Spectroscopy. J. Chem. Phys., 2024, 161, 124702. (∗corresponding author) (JCP Editor’s Pick)
 
@@ -41,7 +41,7 @@ Highlights: 25 published papers, first/co-first/corresponding/co-corresponding a
 
 (16) Chunyi Zhang, Fujie Tang, Mohan Chen, Linfeng Zhang, Diana Y. Qiu, John P. Perdew, Michael L. Klein, Xifan Wu. Modeling Liquid Water by Climbing up Jacob’s Ladder in Density Functional Theory Facilitated by Using Deep Neural Network Potentials. J. Phys. Chem. B, 2021, 125, 11444–11456.
 
-**Selected as a Cover Art Article.**
+Selected as a Cover Art Article.
 
 (15) Fujie Tang, Jianhang Xu, Diana Y. Qiu and Xifan Wu. Nuclear Quantum Effects on the Quasiparticle Properties of the Chloride Anion Aqueous Solution within the GW Approximation. Phys. Rev. B, 2021, 104, 035117.
 
@@ -61,7 +61,7 @@ Highlights: 25 published papers, first/co-first/corresponding/co-corresponding a
 
 (7) Bart Weber, Yuki Nagata, Stephania Ketzetzi, Fujie Tang, Wilbert J. Smit, Huib J. Bakker, Ellen H. G. Backus, Mischa Bonn, and Daniel Bonn. Molecular Insight into the Slipperiness of Ice. J. Phys. Chem. Lett., 2018, 9, 2838.
 
-**Highlighted by Nature “Why your feet slip and slide on ice?”**
+Highlighted by Nature “Why your feet slip and slide on ice?”
     
 (6) Fujie Tang, Tatsuhiko Ohto, Taisuke Hasegawa, Wen Jun Xie, Limei Xu, Mischa Bonn, and Yuki Nagata. Definition of Free O-H Groups of Water at the Air-Water Interface. J. Chem. Theory Comput., 2018, 14, 357.
 
