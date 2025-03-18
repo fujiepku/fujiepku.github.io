@@ -11,7 +11,7 @@ The personal copies of my papers could be found in my ResearchGate page: [Resear
 
 
 
-Highlights: 25 published papers, first/co-first/corresponding/co-corresponding author papers = 14, cited 1397 times, h-index = 13. (Updated: Mar-18-2025)
+**Highlights**: 25 published papers, first/co-first/corresponding/co-corresponding author papers = 14, cited 1397 times, h-index = 13. (Updated: Mar-18-2025)
 
 (27) Qi You, Yan Sun, Feng Wang, Jun Cheng∗, Fujie Tang∗. Decoding the Competing Effects of Dynamic Solvation Structures on NMR Chemical Shifts of Battery Electrolytes via Machine Learning. Submitted. (∗corresponding author)
 
