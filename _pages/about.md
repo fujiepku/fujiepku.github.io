@@ -13,12 +13,26 @@ Our research group specializes in **multimodal spectroscopic computational simul
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2025-03-04
+Last update: 2025-03-31
 
-**硕士招生** 课题组现仍有2025年9月入学的硕士招生名额一名，将依托[厦门大学人工智能研究院](https://iai.xmu.edu.cn/team/PI2025/xkjc/znjskx.htm)进行招生。欢迎有志于AI for Science这一交叉领域研究的同学积极申请，加入我们的团队！
 
 News
 ======
+
+**Mar. 28, 2025**
+
+Our new work at Xiamen University is now published online in **Nature Computational Science**.
+
+In this work, we introduce NMRNet, a deep learning framework using the SE(3) Transformer for atomic environment modeling, following a pretraining and fine-tuning paradigm. To support the evaluation of nuclear magnetic resonance chemical shift prediction models, we have established a comprehensive benchmark based on previous research and databases, covering diverse chemical systems. Applying NMRNet to these benchmark datasets, we achieve competitive performance in both liquid-state and solid-state nuclear magnetic resonance datasets, demonstrating its robustness and practical utility in real-world scenarios. Our work helps to advance deep learning applications in analytical and structural chemistry.
+
+Link to paper: [Nature Computational Science (2025)](https://www.nature.com/articles/s43588-025-00783-z)
+
+Congrations to Fanjie!!!
+
+
+
+
+
 **Mar. 11, 2025**
 
 My last work at Temple University is now published online in **Physical Review X**. It is also featured news in Viewpoint in **Physics Magazine** ["Shedding Light on Water Wires"](https://physics.aps.org/articles/v18/54) by [Prof. Davide Donadio](https://physics.aps.org/authors/davide_donadio) and [Prof. Giulia Galli](https://physics.aps.org/authors/giulia_galli). 
@@ -29,14 +43,6 @@ Link to paper: [Phys. Rev. X 15, 011048 (2025)](https://journals.aps.org/prx/abs
 
 The Viewpoint: [Shedding Light on Water Wires](https://physics.aps.org/articles/v18/54), **Physics** 18, 54 (2025)
 
-
-**Mar. 4, 2025**
-
-I'm thrilled to announce that two of our papers have been accepted for publication and will soon be available online !
-
-1) Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, **Fujie Tang∗**, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. Accepted by Nature Computational Science. (∗corresponding author)
-
-2) **Fujie Tang**, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. Accepted by Physical Review X. 
 
 
 **Sept. 25, 2024**
