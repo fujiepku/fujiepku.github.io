@@ -27,7 +27,7 @@ In this work, we introduce NMRNet, a deep learning framework using the SE(3) Tra
 
 Link to paper: [Nature Computational Science (2025)](https://www.nature.com/articles/s43588-025-00783-z)
 
-Congrations to Fanjie!!!
+Congratulations to Fanjie!!!
 
 
 
