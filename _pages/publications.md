@@ -11,11 +11,11 @@ The personal copies of my papers could be found in my ResearchGate page: [Resear
 
 
 
-**Highlights**: 25 published papers, first/co-first/corresponding/co-corresponding author papers = 14, cited 1397 times, h-index = 13. (Updated: Mar-18-2025)
+**Highlights**: 26 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1416 times, h-index = 13. (Updated: Apr-04-2025)
 
-(27) Qi You, Yan Sun, Feng Wang, Jun Cheng∗, Fujie Tang∗. Decoding the Competing Effects of Dynamic Solvation Structures on NMR Chemical Shifts of Battery Electrolytes via Machine Learning. Submitted. (∗corresponding author)
+(27) Yongkang Wang#, Fujie Tang#, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
 
-(26) Yongkang Wang#, Fujie Tang#, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
+(26) Qi You, Yan Sun, Feng Wang, Jun Cheng∗, Fujie Tang∗. Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning. J. Am. Chem. Soc.. Accepted. (∗corresponding author)
 
 (25) Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, Fujie Tang∗, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. Nat. Comput. Sci.. Accepted. (∗corresponding author)
 
