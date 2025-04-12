@@ -11,9 +11,11 @@ The personal copies of my papers could be found in my ResearchGate page: [Resear
 
 
 
-**Highlights**: 26 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1416 times, h-index = 13. (Updated: Apr-04-2025)
+**Highlights**: 27 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1426 times, h-index = 13. (Updated: Apr-12-2025)
 
-(27) Yongkang Wang#, Fujie Tang#, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
+(28) Yongkang Wang#, Fujie Tang#, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
+
+(27) Hui Li, Wenqi Zheng, Xinyi Liu, Jiashi Li, Lianbing Wen, Fujie Tang and Weitao Liu. Auto-dissociation of atmospheric water on TiO2: insights from sum-frequency spectroscopy of Ti-O vibrations. Phys. Chem. Chem. Phys., Accepted. 
 
 (26) Qi You, Yan Sun, Feng Wang, Jun Cheng∗, Fujie Tang∗. Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning. J. Am. Chem. Soc.. Accepted. (∗corresponding author)
 
