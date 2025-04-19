@@ -18,7 +18,7 @@ Last update: 2025-04-04
 
 News
 ======
-**Apr. 04, 2025**
+**Apr. 18, 2025**
 
 Our new work at Xiamen University is now published online in **Journal of the American Chemical Society**. 
 
