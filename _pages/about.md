@@ -20,11 +20,11 @@ News
 ======
 **Apr. 04, 2025**
 
-I am delighted to announce that our latest work has been accepted by **J. Am. Chem. Soc.**. 
+Our new work at Xiamen University is now published online in **Journal of the American Chemical Society**. 
 
 In this work, we propose a machine learning-based approach to predict dynamic $^7$Li NMR chemical shifts in LiFSI/DME electrolyte solutions. Additionally, we provide a comprehensive structural analysis to interpret the observed chemical shift behavior in experiments, particularly the abrupt changes in $^7$Li chemical shifts at high concentrations. Using advanced modeling techniques, we quantitatively establish the relationship between molecular structure and NMR spectrum, offering critical insights into solvation structure assignments. Our findings reveal the coexistence of two competing local solvation structures that shift in dominance as electrolyte concentration approaches the concentrated limit, leading to an anomalous reverse of $^7$Li NMR chemical shift in the experiment. This work provides a detailed molecular-level understanding of the intricate solvation structures probed by NMR spectroscopy, leading the way for enhanced electrolyte design.
 
-Link to the arxiv: [arxiv](https://arxiv.org/abs/2501.07321)
+Link to the arxiv: [Journal of the American Chemical Society](https://pubs.acs.org/doi/10.1021/jacs.5c02710)
 
 Congratulations to Qi You!!!
 
