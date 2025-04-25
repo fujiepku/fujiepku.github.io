@@ -37,7 +37,7 @@ Our new work at Xiamen University is now published online in **Nature Computatio
 
 In this work, we introduce NMRNet, a deep learning framework using the SE(3) Transformer for atomic environment modeling, following a pretraining and fine-tuning paradigm. To support the evaluation of nuclear magnetic resonance chemical shift prediction models, we have established a comprehensive benchmark based on previous research and databases, covering diverse chemical systems. Applying NMRNet to these benchmark datasets, we achieve competitive performance in both liquid-state and solid-state nuclear magnetic resonance datasets, demonstrating its robustness and practical utility in real-world scenarios. Our work helps to advance deep learning applications in analytical and structural chemistry.
 
-Link to paper: [Nature Computational Science (2025)](https://www.nature.com/articles/s43588-025-00783-z)
+Link to paper: [Nature Computational Science 5, 292–300 (2025)](https://www.nature.com/articles/s43588-025-00783-z)
 
 Congratulations to Fanjie!!!
 
