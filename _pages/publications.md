@@ -11,15 +11,15 @@ The personal copies of my papers could be found in my ResearchGate page: [Resear
 
 
 
-**Highlights**: 27 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1426 times, h-index = 13. (Updated: Apr-12-2025)
+**Highlights**: 27 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1426 times, h-index = 13. (Updated: May-17-2025)
 
 (28) Yongkang Wang#, Fujie Tang#, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
 
-(27) Hui Li, Wenqi Zheng, Xinyi Liu, Jiashi Li, Lianbing Wen, Fujie Tang and Weitao Liu. Auto-dissociation of atmospheric water on TiO2: insights from sum-frequency spectroscopy of Ti-O vibrations. Phys. Chem. Chem. Phys., Accepted. 
+(27) Hui Li, Wenqi Zheng, Xinyi Liu, Jiashi Li, Lianbing Wen, Fujie Tang and Weitao Liu. Auto-dissociation of atmospheric water on TiO2: insights from sum-frequency spectroscopy of Ti-O vibrations. Phys. Chem. Chem. Phys., 2025, 27, 9991-9997.
 
-(26) Qi You, Yan Sun, Feng Wang, Jun Cheng∗, Fujie Tang∗. Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning. J. Am. Chem. Soc.. Accepted. (∗corresponding author)
+(26) Qi You, Yan Sun, Feng Wang, Jun Cheng∗, Fujie Tang∗. Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning. J. Am. Chem. Soc., 2025, 147, 14667–14676. (∗corresponding author)
 
-(25) Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, Fujie Tang∗, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. Nat. Comput. Sci.. Accepted. (∗corresponding author)
+(25) Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, Fujie Tang∗, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. Nat. Comput. Sci., 2025, 15, 292–300. (∗corresponding author)
 
 (24) Fujie Tang, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. Phys. Rev. X. 2025, 15, 011048.
 
