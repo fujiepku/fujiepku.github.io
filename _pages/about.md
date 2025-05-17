@@ -24,7 +24,7 @@ Our new work at Xiamen University is now published online in **Journal of the Am
 
 In this work, we propose a machine learning-based approach to predict dynamic $^7$Li NMR chemical shifts in LiFSI/DME electrolyte solutions. Additionally, we provide a comprehensive structural analysis to interpret the observed chemical shift behavior in experiments, particularly the abrupt changes in $^7$Li chemical shifts at high concentrations. Using advanced modeling techniques, we quantitatively establish the relationship between molecular structure and NMR spectrum, offering critical insights into solvation structure assignments. Our findings reveal the coexistence of two competing local solvation structures that shift in dominance as electrolyte concentration approaches the concentrated limit, leading to an anomalous reverse of $^7$Li NMR chemical shift in the experiment. This work provides a detailed molecular-level understanding of the intricate solvation structures probed by NMR spectroscopy, leading the way for enhanced electrolyte design.
 
-Link to the paper: [Journal of the American Chemical Society](https://pubs.acs.org/doi/10.1021/jacs.5c02710)
+Link to the paper: [ J. Am. Chem. Soc., 147, 14667–14676 (2025)](https://pubs.acs.org/doi/10.1021/jacs.5c02710)
 
 Congratulations to Qi You!!!
 
@@ -37,7 +37,7 @@ Our new work at Xiamen University is now published online in **Nature Computatio
 
 In this work, we introduce NMRNet, a deep learning framework using the SE(3) Transformer for atomic environment modeling, following a pretraining and fine-tuning paradigm. To support the evaluation of nuclear magnetic resonance chemical shift prediction models, we have established a comprehensive benchmark based on previous research and databases, covering diverse chemical systems. Applying NMRNet to these benchmark datasets, we achieve competitive performance in both liquid-state and solid-state nuclear magnetic resonance datasets, demonstrating its robustness and practical utility in real-world scenarios. Our work helps to advance deep learning applications in analytical and structural chemistry.
 
-Link to paper: [Nature Computational Science 5, 292–300 (2025)](https://www.nature.com/articles/s43588-025-00783-z)
+Link to paper: [Nat. Comput. Sci., 5, 292–300 (2025)](https://www.nature.com/articles/s43588-025-00783-z)
 
 Congratulations to Fanjie!!!
 
@@ -63,7 +63,7 @@ My first work as last author at Xiamen University is now published online in **J
 
 Our paper is in the special collection: "**Festschrift in honor of Yuen-Ron Shen**", and highlighted as **JCP Editor's Pick**. 
 
-Link to paper: [J. Chem. Phys., 2024, 161, 124702.](https://doi.org/10.1063/5.0230101)
+Link to paper: [J. Chem. Phys., 161, 124702 (2024).](https://doi.org/10.1063/5.0230101)
 
 
 
@@ -71,7 +71,7 @@ Link to paper: [J. Chem. Phys., 2024, 161, 124702.](https://doi.org/10.1063/5.02
 
 My work at Xiamen University is now published online in **Angew. Chem. Int. Ed.**. In this work, we developed a machine learning spectroscopic methods, together with experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home), examined water molecular structure at a freely suspended graphene/water interface, finding that the SFG response mainly arises from the topmost 1–2 water layers, with minimal contribution from the graphene itself. Graphene weakly interacts with the interfacial water by lowering the vibrational frequency of the dangling O−H group, with a very slight impact on the hydrogen-bonded O−H group.
 
-Link to paper: [Angew. Chem. Int. Ed., 2024, 63, e202319503.](https://doi.org/10.1002/anie.202319503)
+Link to paper: [Angew. Chem. Int. Ed., 63, e202319503 (2024).](https://doi.org/10.1002/anie.202319503)
 
 
 **Mar. 8, 2024**
