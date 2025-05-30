@@ -28,7 +28,7 @@ author_profile: true
 
 <li>Yu Qiao, Ren Hu, Yu Gu, <b>Fujie Tang</b>, Siheng Luo, Haitang Zhang, Jinghua Tian, Jun Cheng, Zhongqun Tian. Exploring New Generation of Characterization Approaches for Energy Electrochemistry–from Operando to Artificial Intelligence. <b><i>Sci. Sin. Chim.</i></b>, 2024, 54, 338-352. (In Chinese)</li>
 
-<b><i>Before joining Xiamen University</i></b>
+<b><i><big>Before joining Xiamen University</big></i></b>
 
 <li><b>Fujie Tang∗</b>, Kefeng Shi and Xifan Wu. Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution using the GW-BetheSalpeter-Equation Approach. <b><i>J. Chem. Phys.</i></b>, 2023, 159, 174501. (∗corresponding author)</li>
 
