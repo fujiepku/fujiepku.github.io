@@ -28,7 +28,7 @@ author_profile: true
 
 <li>Yu Qiao, Ren Hu, Yu Gu, **Fujie Tang**, Siheng Luo, Haitang Zhang, Jinghua Tian, Jun Cheng, Zhongqun Tian. Exploring New Generation of Characterization Approaches for Energy Electrochemistry–from Operando to Artificial Intelligence. ***Sci. Sin. Chim.***, 2024, 54, 338-352. (In Chinese)</li>
 
-### **Before joining Xiamen University**
+<b><i>Before joining Xiamen University</i></b>
 
 <li>**Fujie Tang∗**, Kefeng Shi and Xifan Wu. Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution using the GW-BetheSalpeter-Equation Approach. ***J. Chem. Phys.***, 2023, 159, 174501. (∗corresponding author)</li>
 
@@ -73,6 +73,7 @@ author_profile: true
 <li>**Fujie Tang**, Tatsuhiko Ohto, Taisuke Hasegawa, Mischa Bonn and Yuki Nagata. π+–π+ Stacking of Imidazolium Cations Enhances Molecular Layering of Room Temperature Ionic Liquids at Their Interfaces. ***Phys. Chem. Chem. Phys.***, 2017, 19, 2850.</li>
 
 <li>Fivos Perakis, Luigi De Marco, Andrey Shalit, **Fujie Tang**, Zachary R. Kann, Thomas D. Kuhne, Renato Torre, Mischa Bonn, and Yuki Nagata. Vibrational Spectroscopy and Dynamics of Water. ***Chem. Rev.***, 2016, 116, 7590</li>
+
 </ol>
 
 
