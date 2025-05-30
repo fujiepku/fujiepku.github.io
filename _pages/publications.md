@@ -10,7 +10,7 @@ author_profile: true
 
 (29) Yongkang Wang#, **Fujie Tang#**, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
 
-(28) Xianglong Du, Qi You, Jiezhen Xia, **Fujie Tang∗**, Zhongqun Tian. Progress in machine learning-accelerated computational spectroscopy. ***Sci. Sin. Chim.***, 2025, 55. (∗corresponding author) (Invited Review) (In Chinese)
+(28) Xianglong Du, Qi You, Jiezhen Xia, **Fujie Tang∗**, Jun Cheng∗, Zhongqun Tian. Progress in machine learning-accelerated computational spectroscopy. ***Sci. Sin. Chim.***, 2025, 55. (∗corresponding author) (Invited Review) (In Chinese)
 
 (27) Hui Li, Wenqi Zheng, Xinyi Liu, Jiashi Li, Lianbing Wen, **Fujie Tang** and Weitao Liu. Auto-dissociation of atmospheric water on TiO2: insights from sum-frequency spectroscopy of Ti-O vibrations. ***Phys. Chem. Chem. Phys.***, 2025, 27, 9991-9997.
 
