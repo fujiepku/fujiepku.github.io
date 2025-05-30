@@ -6,13 +6,11 @@ author_profile: true
 ---
 ### A updated list of my publications could be found at my Google Scholar page: [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
 
-### The personal copies of my papers could be found in my ResearchGate page: [ResearchGate](https://www.researchgate.net/profile/Fujie_Tang/)
+### **Highlights**: 28 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1464 times, h-index = 14. (Updated: May-30-2025)
 
+(29) Yongkang Wang#, Fujie Tang#, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
 
-
-### **Highlights**: 27 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1426 times, h-index = 13. (Updated: May-17-2025)
-
-(28) Yongkang Wang#, Fujie Tang#, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
+(28) Xianglong Du, Qi You, Jiezhen Xia, Fujie Tang*, Jun Cheng*, Zhongqun Tian. Progress in machine learning-accelerated computational spectroscopy. ***Sci. Sin. Chim.***, 2025, 55. (∗corresponding author) (Invited Review) (In Chinese)
 
 (27) Hui Li, Wenqi Zheng, Xinyi Liu, Jiashi Li, Lianbing Wen, Fujie Tang and Weitao Liu. Auto-dissociation of atmospheric water on TiO2: insights from sum-frequency spectroscopy of Ti-O vibrations. ***Phys. Chem. Chem. Phys.***, 2025, 27, 9991-9997.
 
@@ -61,7 +59,6 @@ author_profile: true
 (8) Shumei Sun#, Fujie Tang#, Sho Imoto, Daniel R. Moberg, Tatsuhiko Ohto, Francesco Paesani, Mischa Bonn, and Yuki Nagata. Orientational Distribution of Free OH Groups of Interfacial Water is Exponential. ***Phys. Rev. Lett.***, 2018. 121, 246101. (#equal contribution)
 
 (7) Bart Weber, Yuki Nagata, Stephania Ketzetzi, Fujie Tang, Wilbert J. Smit, Huib J. Bakker, Ellen H. G. Backus, Mischa Bonn, and Daniel Bonn. Molecular Insight into the Slipperiness of Ice. ***J. Phys. Chem. Lett.***, 2018, 9, 2838.
-
 >Highlighted by Nature “Why your feet slip and slide on ice?”
     
 (6) Fujie Tang, Tatsuhiko Ohto, Taisuke Hasegawa, Wen Jun Xie, Limei Xu, Mischa Bonn, and Yuki Nagata. Definition of Free O-H Groups of Water at the Air-Water Interface. ***J. Chem. Theory Comput.***, 2018, 14, 357.
@@ -75,3 +72,5 @@ author_profile: true
 (2) Fujie Tang, Tatsuhiko Ohto, Taisuke Hasegawa, Mischa Bonn and Yuki Nagata. π+–π+ Stacking of Imidazolium Cations Enhances Molecular Layering of Room Temperature Ionic Liquids at Their Interfaces. ***Phys. Chem. Chem. Phys.***, 2017, 19, 2850.
 
 (1) Fivos Perakis, Luigi De Marco, Andrey Shalit, Fujie Tang, Zachary R. Kann, Thomas D. Kuhne, Renato Torre, Mischa Bonn, and Yuki Nagata. Vibrational Spectroscopy and Dynamics of Water. ***Chem. Rev.***, 2016, 116, 7590
+
+
