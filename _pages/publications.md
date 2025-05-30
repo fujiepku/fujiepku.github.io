@@ -40,7 +40,7 @@ author_profile: true
 
 <li>Chunyi Zhang, <b>Fujie Tang</b>, Mohan Chen, Linfeng Zhang, Diana Y. Qiu, John P. Perdew, Michael L. Klein, Xifan Wu. Modeling Liquid Water by Climbing up Jacob’s Ladder in Density Functional Theory Facilitated by Using Deep Neural Network Potentials. <b><i>J. Phys. Chem. B</i></b>, 2021, 125, 11444–11456.</li>
 
-<u><i>Selected as a Cover Art Article.</u></i>
+<u><i>Selected as a Cover Art Article.</i></u>
 
 <li><b>Fujie Tang</b>, Jianhang Xu, Diana Y. Qiu and Xifan Wu. Nuclear Quantum Effects on the Quasiparticle Properties of the Chloride Anion Aqueous Solution within the GW Approximation. <b><i>Phys. Rev. B</i></b>, 2021, 104, 035117.</li>
 
@@ -56,23 +56,23 @@ author_profile: true
 
 <li>Ruidan Zhang, Jichao Dong, Ting Luo, <b>Fujie Tang</b>, Xingxing Peng, Chuanyao Zhou, Xueming Yang, Limei Xu, Zefeng Ren. Adsorption Structure and CoverageDependent Orientation Analysis of Submonolayer Acetonitrile on TiO2(110). <b><i>J. Phys. Chem. C</i></b>, 2019, 123, 17915-17924.</li>
 
-<li>Shumei Sun#, <b>Fujie Tang#</b>, Sho Imoto, Daniel R. Moberg, Tatsuhiko Ohto, Francesco Paesani, Mischa Bonn, and Yuki Nagata. Orientational Distribution of Free OH Groups of Interfacial Water is Exponential. <b><i>Phys. Rev. Lett.</b></i>, 2018. 121, 246101. (#equal contribution)</li>
+<li>Shumei Sun#, <b>Fujie Tang#</b>, Sho Imoto, Daniel R. Moberg, Tatsuhiko Ohto, Francesco Paesani, Mischa Bonn, and Yuki Nagata. Orientational Distribution of Free OH Groups of Interfacial Water is Exponential. <b><i>Phys. Rev. Lett.</i></b>, 2018. 121, 246101. (#equal contribution)</li>
 
-<li>Bart Weber, Yuki Nagata, Stephania Ketzetzi, <b>Fujie Tang</b>, Wilbert J. Smit, Huib J. Bakker, Ellen H. G. Backus, Mischa Bonn, and Daniel Bonn. Molecular Insight into the Slipperiness of Ice. <b><i>J. Phys. Chem. Lett.</b></i>, 2018, 9, 2838.</li>
+<li>Bart Weber, Yuki Nagata, Stephania Ketzetzi, <b>Fujie Tang</b>, Wilbert J. Smit, Huib J. Bakker, Ellen H. G. Backus, Mischa Bonn, and Daniel Bonn. Molecular Insight into the Slipperiness of Ice. <b><i>J. Phys. Chem. Lett.</i></b>, 2018, 9, 2838.</li>
 
 <u><i>Highlighted by Nature “Why your feet slip and slide on ice?”</i></u>
 
 <li><b>Fujie Tang</b>, Tatsuhiko Ohto, Taisuke Hasegawa, Wen Jun Xie, Limei Xu, Mischa Bonn, and Yuki Nagata. Definition of Free O-H Groups of Water at the Air-Water Interface. <b><i>J. Chem. Theory Comput.</i></b>, 2018, 14, 357.</li>
 
-<li>Wilbert J. Smit#, <b>Fujie Tang#</b>, M. Alejandra Sanchez, Ellen H. G. Backus, Limei Xu, Taisuke Hasegawa, Mischa Bonn, Huib J. Bakker, and Yuki Nagata. Excess Hydrogen Bond at the Ice-Vapor Interface around 200 K. <b><i>Phys. Rev. Lett.</b></i>, 2017. 119, 133003. (#equal contribution)</li>
+<li>Wilbert J. Smit#, <b>Fujie Tang#</b>, M. Alejandra Sanchez, Ellen H. G. Backus, Limei Xu, Taisuke Hasegawa, Mischa Bonn, Huib J. Bakker, and Yuki Nagata. Excess Hydrogen Bond at the Ice-Vapor Interface around 200 K. <b><i>Phys. Rev. Lett.</i></b>, 2017. 119, 133003. (#equal contribution)</li>
 
-<li>Wilbert J. Smit, <b>Fujie Tang</b>, Yuki Nagata, M. Alejandra Sanchez, Taisuke Hasegawa, Ellen H. G. Backus, Mischa Bonn, and Huib J. Bakker. Observation and Identification of a New OH Stretch Vibrational Band. <b><i>J. Phys. Chem. Lett.</b></i>, 2017, 8, 3656.</li>
+<li>Wilbert J. Smit, <b>Fujie Tang</b>, Yuki Nagata, M. Alejandra Sanchez, Taisuke Hasegawa, Ellen H. G. Backus, Mischa Bonn, and Huib J. Bakker. Observation and Identification of a New OH Stretch Vibrational Band. <b><i>J. Phys. Chem. Lett.</i></b>, 2017, 8, 3656.</li>
 
-<li>Saman Hosseinpour#, <b>Fujie Tang#</b>, Fenglong Wang, Ruth A. Livingstone, Simon J. Schlegel, Tatsuhiko Ohto, Mischa Bonn, Yuki Nagata, and Ellen H. G. Backus. Chemisorbed and Physisorbed Water at the TiO2/Water Interface. <b><i>J. Phys. Chem. Lett.</b></i>, 2017, 8, 2195. (#equal contribution)</li>
+<li>Saman Hosseinpour#, <b>Fujie Tang#</b>, Fenglong Wang, Ruth A. Livingstone, Simon J. Schlegel, Tatsuhiko Ohto, Mischa Bonn, Yuki Nagata, and Ellen H. G. Backus. Chemisorbed and Physisorbed Water at the TiO2/Water Interface. <b><i>J. Phys. Chem. Lett.</i></b>, 2017, 8, 2195. (#equal contribution)</li>
 
-<li><b>Fujie Tang</b>, Tatsuhiko Ohto, Taisuke Hasegawa, Mischa Bonn and Yuki Nagata. π+–π+ Stacking of Imidazolium Cations Enhances Molecular Layering of Room Temperature Ionic Liquids at Their Interfaces. <b><i>Phys. Chem. Chem. Phys.</b></i>, 2017, 19, 2850.</li>
+<li><b>Fujie Tang</b>, Tatsuhiko Ohto, Taisuke Hasegawa, Mischa Bonn and Yuki Nagata. π+–π+ Stacking of Imidazolium Cations Enhances Molecular Layering of Room Temperature Ionic Liquids at Their Interfaces. <b><i>Phys. Chem. Chem. Phys.</i></b>, 2017, 19, 2850.</li>
 
-<li>Fivos Perakis, Luigi De Marco, Andrey Shalit, <b>Fujie Tang</b>, Zachary R. Kann, Thomas D. Kuhne, Renato Torre, Mischa Bonn, and Yuki Nagata. Vibrational Spectroscopy and Dynamics of Water. <b><i>Chem. Rev.</b></i>, 2016, 116, 7590</li>
+<li>Fivos Perakis, Luigi De Marco, Andrey Shalit, <b>Fujie Tang</b>, Zachary R. Kann, Thomas D. Kuhne, Renato Torre, Mischa Bonn, and Yuki Nagata. Vibrational Spectroscopy and Dynamics of Water. <b><i>Chem. Rev.</i></b>, 2016, 116, 7590</li>
 
 </ol>
 
