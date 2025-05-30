@@ -32,7 +32,7 @@ author_profile: true
 
 <li><b>Fujie Tang∗</b>, Kefeng Shi and Xifan Wu. Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution using the GW-BetheSalpeter-Equation Approach. <b><i>J. Chem. Phys.</i></b>, 2023, 159, 174501. (∗corresponding author)</li>
 
-<li>Chun-Chieh Yu, Takakazu Seki, Kuo-Yang Chiang, <b><i>Fujie Tang</i></b>, Shumei Sun, Mischa Bonn and Yuki Nagata.Polarization-Dependent Heterodyne-Detected Sum Frequency Generation Spectroscopy as a Tool to Explore Surface Molecular Orientation and Ångströmscale Depth Profiling. <b><i>J. Phys. Chem. B</i></b>, 2022, 126, 6113-6124.</li>
+<li>Chun-Chieh Yu, Takakazu Seki, Kuo-Yang Chiang, <b>Fujie Tang</b>, Shumei Sun, Mischa Bonn and Yuki Nagata.Polarization-Dependent Heterodyne-Detected Sum Frequency Generation Spectroscopy as a Tool to Explore Surface Molecular Orientation and Ångströmscale Depth Profiling. <b><i>J. Phys. Chem. B</i></b>, 2022, 126, 6113-6124.</li>
 
 <li><b>Fujie Tang</b>, Zhenglu Li, Chunyi Zhang, Steven G. Louie, Roberto Car, Diana Y. Qiu and Xifan Wu. Many-body Effects in the X-ray Absorption Spectra of Liquid Water. <b><i>Proc. Natl. Acad. Sci. U.S.A.</i></b>, 2022, 119, e2201258119.</li>
 
