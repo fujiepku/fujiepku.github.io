@@ -20,7 +20,7 @@ author_profile: true
 <li>Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, <b>Fujie Tang∗</b>, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. <b><i>Nat. Comput. Sci.</i></b>, 2025, 15, 292–300. (∗corresponding author)</li>
 
 <li><b>Fujie Tang</b>, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. <b><i>Phys. Rev. X</i></b>. 2025, 15, 011048.</li>
-<u><i>Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” written by Davide Donadio and Giulia Galli.</i></u>
+<u><i>Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” by Davide Donadio and Giulia Galli.</i></u>
 
 <li>Xianglong Du, Weizhi Shao, Chenglong Bao, Linfeng Zhang, Jun Cheng∗, <b>Fujie Tang∗</b>. Revealing the Molecular Structures of α-Al2O3 (0001)-water Interface by Machine Learning Based Computational Vibrational Spectroscopy. <b><i>J. Chem. Phys.</i></b>, 2024, 161, 124702. (∗corresponding author) (JCP Editor’s Pick)</li>
 
