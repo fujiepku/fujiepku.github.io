@@ -7,20 +7,33 @@ author_profile: true
 ### A updated list of my publications could be found at my Google Scholar page: [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
 
 ### **Highlights**: 28 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1464 times, h-index = 14. (Updated: May-30-2025)
-
-(29) Yongkang Wang#, **Fujie Tang#**, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
-
-(28) Xianglong Du, Qi You, Jiezhen Xia, **Fujie Tang∗**, Jun Cheng∗, Zhongqun Tian. Progress in machine learning-accelerated computational spectroscopy. ***Sci. Sin. Chim.***, 2025, 55. (∗corresponding author) (Invited Review) (In Chinese)
-
-(27) Hui Li, Wenqi Zheng, Xinyi Liu, Jiashi Li, Lianbing Wen, **Fujie Tang** and Weitao Liu. Auto-dissociation of atmospheric water on TiO2: insights from sum-frequency spectroscopy of Ti-O vibrations. ***Phys. Chem. Chem. Phys.***, 2025, 27, 9991-9997.
-
-(26) Qi You, Yan Sun, Feng Wang, Jun Cheng∗, **Fujie Tang∗**. Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning. ***J. Am. Chem. Soc.***, 2025, 147, 14667–14676. (∗corresponding author)
-
-(25) Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, **Fujie Tang∗**, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. ***Nat. Comput. Sci.***, 2025, 15, 292–300. (∗corresponding author)
-
-(24) **Fujie Tang**, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. ***Phys. Rev. X***. 2025, 15, 011048.
-
+<ol reversed>
+<li>Yongkang Wang#, **Fujie Tang#**, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)</li>
+<li>Xianglong Du, Qi You, Jiezhen Xia, **Fujie Tang∗**, Jun Cheng∗, Zhongqun Tian. Progress in machine learning-accelerated computational spectroscopy. ***Sci. Sin. Chim.***, 2025, 55. (∗corresponding author) (Invited Review) (In Chinese)</li>
+<li>Hui Li, Wenqi Zheng, Xinyi Liu, Jiashi Li, Lianbing Wen, **Fujie Tang** and Weitao Liu. Auto-dissociation of atmospheric water on TiO2: insights from sum-frequency spectroscopy of Ti-O vibrations. ***Phys. Chem. Chem. Phys.***, 2025, 27, 9991-9997.</li>
+<li>Qi You, Yan Sun, Feng Wang, Jun Cheng∗, **Fujie Tang∗**. Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning. ***J. Am. Chem. Soc.***, 2025, 147, 14667–14676. (∗corresponding author)</li>
+<li>Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, **Fujie Tang∗**, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. ***Nat. Comput. Sci.***, 2025, 15, 292–300. (∗corresponding author)</li>
+<li>**Fujie Tang**, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. ***Phys. Rev. X***. 2025, 15, 011048.</li>
 >Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” written by Davide Donadio and Giulia Galli.
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
+
+
+
+(26) 
+
+(25) 
+
+(24) 
+
+
 
 (23) Xianglong Du, Weizhi Shao, Chenglong Bao, Linfeng Zhang, Jun Cheng∗, **Fujie Tang∗**. Revealing the Molecular Structures of α-Al2O3 (0001)-water Interface by Machine Learning Based Computational Vibrational Spectroscopy. ***J. Chem. Phys.***, 2024, 161, 124702. (∗corresponding author) (JCP Editor’s Pick)
 
