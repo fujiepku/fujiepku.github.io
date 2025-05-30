@@ -4,14 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
- A updated list of my publications could be found at my Google Scholar page: 
- [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
+### A updated list of my publications could be found at my Google Scholar page: [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
 
-The personal copies of my papers could be found in my ResearchGate page: [ResearchGate](https://www.researchgate.net/profile/Fujie_Tang/)
-
+### The personal copies of my papers could be found in my ResearchGate page: [ResearchGate](https://www.researchgate.net/profile/Fujie_Tang/)
 
 
-**Highlights**: 27 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1426 times, h-index = 13. (Updated: May-17-2025)
+
+#### **Highlights**: 27 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1426 times, h-index = 13. (Updated: May-17-2025)
 
 (28) Yongkang Wang#, Fujie Tang#, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)
 
@@ -23,7 +22,7 @@ The personal copies of my papers could be found in my ResearchGate page: [Resear
 
 (24) Fujie Tang, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. ***Phys. Rev. X***. 2025, 15, 011048.
 
- Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” written by Davide Donadio and Giulia Galli.
+>Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” written by Davide Donadio and Giulia Galli.
 
 (23) Xianglong Du, Weizhi Shao, Chenglong Bao, Linfeng Zhang, Jun Cheng∗, Fujie Tang∗. Revealing the Molecular Structures of α-Al2O3 (0001)-water Interface by Machine Learning Based Computational Vibrational Spectroscopy. ***J. Chem. Phys.***, 2024, 161, 124702. (∗corresponding author) (JCP Editor’s Pick)
 
@@ -31,7 +30,7 @@ The personal copies of my papers could be found in my ResearchGate page: [Resear
 
 (21) Yu Qiao, Ren Hu, Yu Gu, Fujie Tang, Siheng Luo, Haitang Zhang, Jinghua Tian, Jun Cheng, Zhongqun Tian. Exploring New Generation of Characterization Approaches for Energy Electrochemistry–from Operando to Artificial Intelligence. ***Sci. Sin. Chim.***, 2024, 54, 338-352. (In Chinese)
 
-**Before joining Xiamen University**
+### **Before joining Xiamen University**
 
 (20) Fujie Tang∗, Kefeng Shi and Xifan Wu. Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution using the GW-BetheSalpeter-Equation Approach. ***J. Chem. Phys.***, 2023, 159, 174501. (∗corresponding author)
 
@@ -43,7 +42,7 @@ The personal copies of my papers could be found in my ResearchGate page: [Resear
 
 (16) Chunyi Zhang, Fujie Tang, Mohan Chen, Linfeng Zhang, Diana Y. Qiu, John P. Perdew, Michael L. Klein, Xifan Wu. Modeling Liquid Water by Climbing up Jacob’s Ladder in Density Functional Theory Facilitated by Using Deep Neural Network Potentials. ***J. Phys. Chem. B***, 2021, 125, 11444–11456.
 
-Selected as a Cover Art Article.
+>Selected as a Cover Art Article.
 
 (15) Fujie Tang, Jianhang Xu, Diana Y. Qiu and Xifan Wu. Nuclear Quantum Effects on the Quasiparticle Properties of the Chloride Anion Aqueous Solution within the GW Approximation. ***Phys. Rev. B***, 2021, 104, 035117.
 
@@ -63,7 +62,7 @@ Selected as a Cover Art Article.
 
 (7) Bart Weber, Yuki Nagata, Stephania Ketzetzi, Fujie Tang, Wilbert J. Smit, Huib J. Bakker, Ellen H. G. Backus, Mischa Bonn, and Daniel Bonn. Molecular Insight into the Slipperiness of Ice. ***J. Phys. Chem. Lett.***, 2018, 9, 2838.
 
-Highlighted by Nature “Why your feet slip and slide on ice?”
+#### Highlighted by Nature “Why your feet slip and slide on ice?”
     
 (6) Fujie Tang, Tatsuhiko Ohto, Taisuke Hasegawa, Wen Jun Xie, Limei Xu, Mischa Bonn, and Yuki Nagata. Definition of Free O-H Groups of Water at the Air-Water Interface. ***J. Chem. Theory Comput.***, 2018, 14, 357.
 
