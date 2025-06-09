@@ -14,12 +14,11 @@ Through our research, we aim to advance understanding of molecular structures at
 
 **Research Topics**
 
-* Water at Interfaces
+* Water Science
 
-* Materials under Extreme Conditions
+* Spectroscopic Properties at Electrochemic Interfaces
 
-* Spectroscopic Properties of Battery Materials
-
+* Understanding and Control of Excitations at Complex Materials
 
 
 
