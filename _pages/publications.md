@@ -29,6 +29,7 @@ author_profile: true
 
 
 <b>2024</b>
+
 <li>Xianglong Du, Weizhi Shao, Chenglong Bao, Linfeng Zhang, Jun Cheng∗, <b>Fujie Tang∗</b>. Revealing the Molecular Structures of α-Al2O3 (0001)-water Interface by Machine Learning Based Computational Vibrational Spectroscopy. <b><i>J. Chem. Phys.</i></b>, 2024, 161, 124702. (∗corresponding author) (JCP Editor’s Pick)</li>
 
 <li>Yongkang Wang#, <b>Fujie Tang#</b>, Xiaoqing Yu, Tatsuhiko Ohto, Yuki Nagata, Mischa Bonn. Heterodyne-Detected Sum-Frequency Generation Vibrational Spectroscopy Reveals Aqueous Molecular Structure at the Suspended Graphene/Water Interface. <b><i>Angew. Chem. Int. Ed.</i></b>, 2024, 63, e202319503. (#equal contribution)</li>
@@ -37,7 +38,11 @@ author_profile: true
 
 <b><i><big>Before joining Xiamen University</big></i></b>
 
+<b>2023</b>
+
 <li><b>Fujie Tang∗</b>, Kefeng Shi and Xifan Wu. Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution using the GW-BetheSalpeter-Equation Approach. <b><i>J. Chem. Phys.</i></b>, 2023, 159, 174501. (∗corresponding author)</li>
+
+<b>2022</b>
 
 <li>Chun-Chieh Yu, Takakazu Seki, Kuo-Yang Chiang, <b>Fujie Tang</b>, Shumei Sun, Mischa Bonn and Yuki Nagata.Polarization-Dependent Heterodyne-Detected Sum Frequency Generation Spectroscopy as a Tool to Explore Surface Molecular Orientation and Ångströmscale Depth Profiling. <b><i>J. Phys. Chem. B</i></b>, 2022, 126, 6113-6124.</li>
 
