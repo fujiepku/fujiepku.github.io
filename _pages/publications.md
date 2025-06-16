@@ -9,6 +9,9 @@ author_profile: true
 ### **Highlights**: 28 published papers, first/co-first/corresponding/co-corresponding author papers = 15, cited 1464 times, h-index = 14. (Updated: May-30-2025)
 
 <ol reversed>
+
+<li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Surface-Specific Vibrational Spectroscopy Reveals Oxidation Level of Graphene in Contact with Water. Submitted. (∗corresponding author)</li>
+
 <li>Yongkang Wang#, <b>Fujie Tang#</b>, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)</li>
 
 <li>Xianglong Du, Qi You, Jiezhen Xia, <b>Fujie Tang*</b>, Jun Cheng∗, Zhongqun Tian. Progress in machine learning-accelerated computational spectroscopy. <b><i>Sci. Sin. Chim.</i></b>, 2025, 55. (∗corresponding author) (Invited Review) (In Chinese)</li>
