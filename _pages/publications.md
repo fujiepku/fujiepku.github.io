@@ -27,7 +27,7 @@ author_profile: true
 <li><b>Fujie Tang</b>, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. <b><i>Phys. Rev. X</i></b>. 2025, 15, 011048.</li>
 <u><i>Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” by Davide Donadio and Giulia Galli.</i></u>
 
-
+<br />
 <b>2024</b>
 
 <li>Xianglong Du, Weizhi Shao, Chenglong Bao, Linfeng Zhang, Jun Cheng∗, <b>Fujie Tang∗</b>. Revealing the Molecular Structures of α-Al2O3 (0001)-water Interface by Machine Learning Based Computational Vibrational Spectroscopy. <b><i>J. Chem. Phys.</i></b>, 2024, 161, 124702. (∗corresponding author) (JCP Editor’s Pick)</li>
@@ -36,12 +36,16 @@ author_profile: true
 
 <li>Yu Qiao, Ren Hu, Yu Gu, <b>Fujie Tang</b>, Siheng Luo, Haitang Zhang, Jinghua Tian, Jun Cheng, Zhongqun Tian. Exploring New Generation of Characterization Approaches for Energy Electrochemistry–from Operando to Artificial Intelligence. <b><i>Sci. Sin. Chim.</i></b>, 2024, 54, 338-352. (In Chinese)</li>
 
+<br />
 <b><i><big>Before joining Xiamen University</big></i></b>
+<br />
 
+<br />
 <b>2023</b>
 
 <li><b>Fujie Tang∗</b>, Kefeng Shi and Xifan Wu. Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution using the GW-BetheSalpeter-Equation Approach. <b><i>J. Chem. Phys.</i></b>, 2023, 159, 174501. (∗corresponding author)</li>
 
+<br />
 <b>2022</b>
 
 <li>Chun-Chieh Yu, Takakazu Seki, Kuo-Yang Chiang, <b>Fujie Tang</b>, Shumei Sun, Mischa Bonn and Yuki Nagata.Polarization-Dependent Heterodyne-Detected Sum Frequency Generation Spectroscopy as a Tool to Explore Surface Molecular Orientation and Ångströmscale Depth Profiling. <b><i>J. Phys. Chem. B</i></b>, 2022, 126, 6113-6124.</li>
@@ -50,6 +54,7 @@ author_profile: true
 
 <li>Hongwei Wang, <b>Fujie Tang</b>, Massimiliano Stengel, Hongjun Xiang, Qi An, Tony Low, and Xifan Wu. Convert Widespread Paraelectric Perovskite to Ferroelectrics. <b><i>Phys. Rev. Lett.</i></b>, 2022, 128, 197601.</li>
 
+<br />
 <b>2021</b>
 
 <li>Chunyi Zhang, <b>Fujie Tang</b>, Mohan Chen, Linfeng Zhang, Diana Y. Qiu, John P. Perdew, Michael L. Klein, Xifan Wu. Modeling Liquid Water by Climbing up Jacob’s Ladder in Density Functional Theory Facilitated by Using Deep Neural Network Potentials. <b><i>J. Phys. Chem. B</i></b>, 2021, 125, 11444–11456.</li>
@@ -58,6 +63,7 @@ author_profile: true
 
 <li><b>Fujie Tang</b>, Jianhang Xu, Diana Y. Qiu and Xifan Wu. Nuclear Quantum Effects on the Quasiparticle Properties of the Chloride Anion Aqueous Solution within the GW Approximation. <b><i>Phys. Rev. B</i></b>, 2021, 104, 035117.</li>
 
+<br />
 <b>2020</b>
 
 <li>Chunyi Zhang, Linfeng Zhang, Jianhang Xu, <b>Fujie Tang</b>, Biswajit Santra, and Xifan Wu, Isotope Effects in X-ray Absorption Spectra of Liquid Water, <b><i>Phys. Rev. B</i></b>, 2020, 102, 115155.</li>
@@ -68,12 +74,14 @@ author_profile: true
 
 <li><b>Fujie Tang</b>, Xuanyuan Jiang, Hsin-Yu Ko, Jianhang Xu, Mehmet Topsakal, Guanhua Hao, Alpha T. N’Diaye, Peter A. Dowben, Deyu Lu, Xiaoshan Xu, and Xifan Wu. Probing Ferroelectricity by X-ray Absorption Spectroscopy in Molecular Crystals. <b><i>Phys. Rev. Materials</i></b>, 2020, 4, 034401.</li>
 
+<br />
 <b>2019</b>
 
 <li>Tatsuhiko Ohto, Mayank Dodia, Jianhang Xu, Sho Imoto, <b>Fujie Tang</b>, Frederik Zysk, Thomas D. Kuhne, Yasuteru Shigeta, Mischa Bonn, Xifan Wu, Yuki Nagata. Accessing the Accuracy of Density Functional Theory through Structure and Dynamics of the Water–Air Interface. <b><i>J. Phys. Chem. Lett.</i></b>, 2019, 123, 099602.</li>
 
 <li>Ruidan Zhang, Jichao Dong, Ting Luo, <b>Fujie Tang</b>, Xingxing Peng, Chuanyao Zhou, Xueming Yang, Limei Xu, Zefeng Ren. Adsorption Structure and CoverageDependent Orientation Analysis of Submonolayer Acetonitrile on TiO2(110). <b><i>J. Phys. Chem. C</i></b>, 2019, 123, 17915-17924.</li>
 
+<br />
 <b>2018</b>
 
 <li>Shumei Sun#, <b>Fujie Tang#</b>, Sho Imoto, Daniel R. Moberg, Tatsuhiko Ohto, Francesco Paesani, Mischa Bonn, and Yuki Nagata. Orientational Distribution of Free OH Groups of Interfacial Water is Exponential. <b><i>Phys. Rev. Lett.</i></b>, 2018. 121, 246101. (#equal contribution)</li>
@@ -84,6 +92,7 @@ author_profile: true
 
 <li><b>Fujie Tang</b>, Tatsuhiko Ohto, Taisuke Hasegawa, Wen Jun Xie, Limei Xu, Mischa Bonn, and Yuki Nagata. Definition of Free O-H Groups of Water at the Air-Water Interface. <b><i>J. Chem. Theory Comput.</i></b>, 2018, 14, 357.</li>
 
+<br />
 <b>2017</b>
 
 <li>Wilbert J. Smit#, <b>Fujie Tang#</b>, M. Alejandra Sanchez, Ellen H. G. Backus, Limei Xu, Taisuke Hasegawa, Mischa Bonn, Huib J. Bakker, and Yuki Nagata. Excess Hydrogen Bond at the Ice-Vapor Interface around 200 K. <b><i>Phys. Rev. Lett.</i></b>, 2017. 119, 133003. (#equal contribution)</li>
@@ -94,6 +103,7 @@ author_profile: true
 
 <li><b>Fujie Tang</b>, Tatsuhiko Ohto, Taisuke Hasegawa, Mischa Bonn and Yuki Nagata. π+–π+ Stacking of Imidazolium Cations Enhances Molecular Layering of Room Temperature Ionic Liquids at Their Interfaces. <b><i>Phys. Chem. Chem. Phys.</i></b>, 2017, 19, 2850.</li>
 
+<br />
 <b>2016</b>
 
 <li>Fivos Perakis, Luigi De Marco, Andrey Shalit, <b>Fujie Tang</b>, Zachary R. Kann, Thomas D. Kuhne, Renato Torre, Mischa Bonn, and Yuki Nagata. Vibrational Spectroscopy and Dynamics of Water. <b><i>Chem. Rev.</i></b>, 2016, 116, 7590</li>
