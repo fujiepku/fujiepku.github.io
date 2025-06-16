@@ -29,7 +29,7 @@ author_profile: true
 
 <br />
 <b>2024</b>
-
+<br />
 <li>Xianglong Du, Weizhi Shao, Chenglong Bao, Linfeng Zhang, Jun Cheng∗, <b>Fujie Tang∗</b>. Revealing the Molecular Structures of α-Al2O3 (0001)-water Interface by Machine Learning Based Computational Vibrational Spectroscopy. <b><i>J. Chem. Phys.</i></b>, 2024, 161, 124702. (∗corresponding author) (JCP Editor’s Pick)</li>
 
 <li>Yongkang Wang#, <b>Fujie Tang#</b>, Xiaoqing Yu, Tatsuhiko Ohto, Yuki Nagata, Mischa Bonn. Heterodyne-Detected Sum-Frequency Generation Vibrational Spectroscopy Reveals Aqueous Molecular Structure at the Suspended Graphene/Water Interface. <b><i>Angew. Chem. Int. Ed.</i></b>, 2024, 63, e202319503. (#equal contribution)</li>
