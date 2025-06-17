@@ -18,7 +18,7 @@ Through our research, we aim to advance understanding of molecular structures at
 
 * Spectroscopic Properties at Electrochemic Interfaces
 
-* Understanding and Control of Excitations at Complex Materials
+* Spectroscopic Properties of Materials Under Extreme Conditions
 
 
 
