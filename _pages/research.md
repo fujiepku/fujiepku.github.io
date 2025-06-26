@@ -14,11 +14,11 @@ Through our research, we aim to advance understanding of molecular structures at
 
 **Research Topics**
 
-* Water Science
+* Decoding Water Structure & Dynamics via Computational Multimodal Spectroscopy & Simulations
 
-* Spectroscopic Properties at Electrochemic Interfaces
+* AI-Driven Computational Spectroscopy & Molecular Modeling of Electrochemical Interfaces
 
-* Spectroscopic Properties of Materials Under Extreme Conditions
+* Probing Materials Under Extreme Conditions: Linking Real-Time Spectroscopic Signatures to Atomic Structure
 
 
 
