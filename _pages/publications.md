@@ -12,7 +12,7 @@ author_profile: true
 
 <b>2025</b>
 
-<li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Surface-Specific Vibrational Spectroscopy Reveals Oxidation Level of Graphene in Contact with Water. Submitted. (∗corresponding author)</li>
+<li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine Learning Accelerated Computational Surface-Specific Vibrational Spectroscopy Reveals Oxidation Level of Graphene in Contact with Water. Submitted. (∗corresponding author)</li>
 
 <li>Yongkang Wang#, <b>Fujie Tang#</b>, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. Submitted. (#equal contribution)</li>
 
