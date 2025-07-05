@@ -28,7 +28,6 @@ author_profile: true
 <u><i>Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” by Davide Donadio and Giulia Galli.</i></u>
 
 <br /><br />
-<br /><br />
 <b>2024</b>
 <br />
 
