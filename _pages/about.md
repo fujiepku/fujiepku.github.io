@@ -13,11 +13,25 @@ Our research group specializes in **multimodal spectroscopic computational simul
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2025-04-18
+Last update: 2025-07-04
 
 
 News
 ======
+
+**Jul. 4, 2025**
+
+Our new collaborating work with the experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home) is finally accepted in **Nature Communications**. 
+
+Water plays a crucial role in geological, biological, and technological processes. Nanoscale water confinement occurs in many of these settings, including sedimentary rocks, water channel proteins, and applications like desalination and water purification membranes. The structure and properties of water in nanoconfinement can differ significantly from bulk water, exhibiting, for instance, modified hydrogen bonds, dielectric constant, and phase transitions. Despite the importance of strongly nanoconfined water, experimentally elucidating the nanoconfinement effects on water, such as its orientation and hydrogen bond (H-bond) network, has remained challenging. Here, we study two-dimensionally nanoconfined aqueous electrolyte solutions with tunable confinement from nanoscale to angstrom-scale sandwiched between a graphene sheet and CaF2 achieved by capillary condensation. We employ heterodyne-detection sum-frequency generation (HD-SFG) spectroscopy, a surface-specific vibrationalspectroscopy capable of directly and selectively probing water orientation and H-bond environment at interfaces and under confinement. Remarkably, the vibrational spectra of the nanoconfined water can be described quantitatively by the sum of the individual water surface signals from the CaF2/water and water/graphene interfaces until the confinement reduces to angstrom-scale (< ~8 Å). Machine-learning-accelerated ab initio molecular dynamics simulations confirm our experimental observation. These results manifest that interfacial, rather than nanoconfinement effects, dominate the water structure until angstrom-level confinement for the two-dimensionally nanoconfined water.
+
+Link to the paper (arxiv): [Interfaces Govern Structure of Angstrom-scale Confined Water](https://arxiv.org/abs/2310.10354)
+
+Cheers!!
+
+
+
+
 **Apr. 18, 2025**
 
 Our new work at Xiamen University is now published online in **Journal of the American Chemical Society**. 
@@ -59,7 +73,7 @@ The Viewpoint: [Shedding Light on Water Wires](https://physics.aps.org/articles/
 
 **Sept. 25, 2024**
 
-My first work as last author at Xiamen University is now published online in **J. Chem. Phys.**.  In this work, we present a pathway for calculating vibrational spectra (IR, Raman, SFG) of solid-water interfaces using machine learning (ML)-accelerated methods. We employ both the dipole moment-polarizability correlation function and the surface-specific velocity-velocity correlation function approaches to calculate SFG spectra. Our results demonstrate the successful acceleration of AIMD simulations and the calculation of SFG spectra using ML methods. This advancement provides an opportunity to calculate SFG spectra for the complicated solid-water systems more rapidly and at a lower computational cost with the aid of ML.
+My first work as last author at Xiamen University is now published online in **The Journal of Chemical Physics**.  In this work, we present a pathway for calculating vibrational spectra (IR, Raman, SFG) of solid-water interfaces using machine learning (ML)-accelerated methods. We employ both the dipole moment-polarizability correlation function and the surface-specific velocity-velocity correlation function approaches to calculate SFG spectra. Our results demonstrate the successful acceleration of AIMD simulations and the calculation of SFG spectra using ML methods. This advancement provides an opportunity to calculate SFG spectra for the complicated solid-water systems more rapidly and at a lower computational cost with the aid of ML.
 
 Our paper is in the special collection: "**Festschrift in honor of Yuen-Ron Shen**", and highlighted as **JCP Editor's Pick**. 
 
@@ -69,7 +83,7 @@ Link to paper: [J. Chem. Phys., 161, 124702 (2024).](https://doi.org/10.1063/5.0
 
 **Mar. 14, 2024**
 
-My work at Xiamen University is now published online in **Angew. Chem. Int. Ed.**. In this work, we developed a machine learning spectroscopic methods, together with experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home), examined water molecular structure at a freely suspended graphene/water interface, finding that the SFG response mainly arises from the topmost 1–2 water layers, with minimal contribution from the graphene itself. Graphene weakly interacts with the interfacial water by lowering the vibrational frequency of the dangling O−H group, with a very slight impact on the hydrogen-bonded O−H group.
+My work at Xiamen University is now published online in **Angewandte Chemie International Edition**. In this work, we developed a machine learning spectroscopic methods, together with experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home), examined water molecular structure at a freely suspended graphene/water interface, finding that the SFG response mainly arises from the topmost 1–2 water layers, with minimal contribution from the graphene itself. Graphene weakly interacts with the interfacial water by lowering the vibrational frequency of the dangling O−H group, with a very slight impact on the hydrogen-bonded O−H group.
 
 Link to paper: [Angew. Chem. Int. Ed., 63, e202319503 (2024).](https://doi.org/10.1002/anie.202319503)
 
