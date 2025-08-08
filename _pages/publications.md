@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### A updated list of my publications could be found at my Google Scholar page: [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
 
-### **Highlights**: 29 published papers, first/co-first/corresponding/co-corresponding author papers = 17, cited 1497 times, h-index = 14. (Updated: July-04-2025)
+### **Highlights**: 29 published papers, first/co-first/corresponding/co-corresponding author papers = 17, cited 1511 times, h-index = 14. (Updated: August-08-2025)
 
 <ol reversed>
 
@@ -14,7 +14,7 @@ author_profile: true
 
 <li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. Submitted. (∗corresponding author)</li>
 
-<li>Yongkang Wang#, <b>Fujie Tang#</b>, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. <b><i>Nat. Commun.</i></b>, accepted. (#equal contribution)</li>
+<li>Yongkang Wang#, <b>Fujie Tang#</b>, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water. <b><i>Nat. Commun.</i></b>, 16, 7288 (2025). (#equal contribution)</li>
 
 <li>Xianglong Du, Qi You, Jiezhen Xia, <b>Fujie Tang*</b>, Jun Cheng∗, Zhongqun Tian. Progress in machine learning-accelerated computational spectroscopy. <b><i>Sci. Sin. Chim.</i></b>, 2025, 55. (∗corresponding author) (Invited Review) (In Chinese)</li>
 

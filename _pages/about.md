@@ -13,19 +13,19 @@ Our research group specializes in **multimodal spectroscopic computational simul
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2025-07-04
+Last update: 2025-08-08
 
 
 News
 ======
 
-**Jul. 4, 2025**
+**Aug. 7, 2025**
 
-Our new collaborating work with the experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home) is finally accepted in **Nature Communications**. 
+Our new collaborating work with the experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home) is now published online in **Nature Communications**. 
 
 Water plays a crucial role in geological, biological, and technological processes. Nanoscale water confinement occurs in many of these settings, including sedimentary rocks, water channel proteins, and applications like desalination and water purification membranes. The structure and properties of water in nanoconfinement can differ significantly from bulk water, exhibiting, for instance, modified hydrogen bonds, dielectric constant, and phase transitions. Despite the importance of strongly nanoconfined water, experimentally elucidating the nanoconfinement effects on water, such as its orientation and hydrogen bond (H-bond) network, has remained challenging. Here, we study two-dimensionally nanoconfined aqueous electrolyte solutions with tunable confinement from nanoscale to angstrom-scale sandwiched between a graphene sheet and CaF2 achieved by capillary condensation. We employ heterodyne-detection sum-frequency generation (HD-SFG) spectroscopy, a surface-specific vibrationalspectroscopy capable of directly and selectively probing water orientation and H-bond environment at interfaces and under confinement. Remarkably, the vibrational spectra of the nanoconfined water can be described quantitatively by the sum of the individual water surface signals from the CaF2/water and water/graphene interfaces until the confinement reduces to angstrom-scale (< ~8 Å). Machine-learning-accelerated ab initio molecular dynamics simulations confirm our experimental observation. These results manifest that interfacial, rather than nanoconfinement effects, dominate the water structure until angstrom-level confinement for the two-dimensionally nanoconfined water.
 
-Link to the paper (arxiv): [Interfaces Govern Structure of Angstrom-scale Confined Water](https://arxiv.org/abs/2310.10354)
+Link to the paper: [Nat. Commun., 16, 7288 (2025)](https://www.nature.com/articles/s41467-025-62625-w)
 
 Cheers!!
 
