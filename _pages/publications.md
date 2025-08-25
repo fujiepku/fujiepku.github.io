@@ -12,6 +12,9 @@ author_profile: true
 
 <b>2025</b>
 
+
+<li>Kang Wang, Yingchen Peng, Boying Huang, Chun Zhou, Qianlu Sun, <b>Fujie Tang*</b>, Zhenglu Li, Weigao Xu, Kezhao Du, Xingzhi Wang, Ye Yang*. Correlation between Exciton Dynamics and Spin Structure in van der Waals Antiferromagnet NiPS3. Submitted. (∗corresponding author)</li>
+
 <li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. Submitted. (∗corresponding author)</li>
 
 <li>Yongkang Wang#, <b>Fujie Tang#</b>, Xiaoqing Yu, Kuo-Yang Chiang, Chun-Chieh Yu, Tatsuhiko Ohto, Yunfei Chen, Yuki Nagata, Mischa Bonn. Interfaces Govern Structure of Angstrom-scale Confined Water Solutions. <b><i>Nat. Commun.</i></b>, 2025, 16, 7288. (#equal contribution)</li>
