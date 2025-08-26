@@ -33,6 +33,6 @@ redirect_from:
 * Mr. Pengwei Xu (2023); Email: [xupengwei@stu.xmu.edu.cn](xupengwei@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
 * Mr. Suyang Zhong (2024); Email: [33520241153406@stu.xmu.edu.cn](33520241153406@stu.xmu.edu.cn)
 * Ms. Lu Cao (2025); Email: [caolu0308@163.com](caolu0308@163.com). Incoming.
-
+* Mr. Yuyang Zhu (2025); Incoming.
 **Undergraduate Student**
 
