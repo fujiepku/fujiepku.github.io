@@ -25,15 +25,15 @@ redirect_from:
 * Mr. Jiezhen Xia (2024); Email: [xiajiezhen@stu.xmu.edu.cn](xiajiezhen@stu.xmu.edu.cn)
 * Mr. Xianglong Du (2025); Email: [duxianglong@stu.xmu.edu.cn](duxianglong@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
 * Mr. Fanjie Xu (2025); Email: [xufanjie@stu.xmu.edu.cn](xufanjie@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
-* Ms. Wanlin Xu (2025); Joint Program. Incoming.
+* Ms. Wanlin Xu (2025); Email: [xuwanlin@stu.xmu.edu.cn](xuwanlin@stu.xmu.edu.cn). Joint Program.
 
 **Master Student**
 
 
 * Mr. Pengwei Xu (2023); Email: [xupengwei@stu.xmu.edu.cn](xupengwei@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
 * Mr. Suyang Zhong (2024); Email: [33520241153406@stu.xmu.edu.cn](33520241153406@stu.xmu.edu.cn)
-* Ms. Lu Cao (2025); Email: [caolu0308@163.com](caolu0308@163.com). Incoming.
-* Mr. Yuyang Zhu (2025); Incoming.
+* Ms. Lu Cao (2025); Email: [caolu@stu.xmu.edu.cn](caolu@stu.xmu.edu.cn). 
+* Mr. Yuyang Zhu (2025); Email: [zhuyuyang@stu.xmu.edu.cn](zhuyuyang@stu.xmu.edu.cn).
 
 **Undergraduate Student**
 
