@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome to Computational Spectroscopy of Complex Systems LAB (CS^2^L@XMU)!"
+title: "Welcome to Computational Spectroscopy of Complex Systems LAB (CS<sup>2</sup>L@XMU)!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-The Computational Spectroscopy of Complex Systems LAB (CS^2^L@XMU) is a part of [The Laboratory of AI for Electrochemistry (AI4EC lab)](https://ai4ec.ac.cn/). 
+The Computational Spectroscopy of Complex Systems LAB (CS<sup>2</sup>L@XMU) is a part of [The Laboratory of AI for Electrochemistry (AI4EC lab)](https://ai4ec.ac.cn/). 
 
 Our research group specializes in **multimodal spectroscopic computational simulations of complex interfaces**. We focus on developing and applying advanced algorithms to investigate **the intricate relationship between spectral features and microscopic structure**. 
 
