@@ -24,7 +24,7 @@ Our internal collaborating work with the experimental collegue, [Prof. Yang Ye](
 
 The emerging magnetic van der Waals (vdW) materials provide a platform for exploring novel physics regarding magnetism in low dimensions and developing ultrathin spintronic applications. Here, we investigate the ultrafast dynamics of excitons in a vdW NiPS3 crystal. The temporal evolution of the transient reflection spectra indicates that the spin-correlated exciton is formed through photocarrier localization, the rate of which is independent of the magnetic degrees of freedom. However, the recombination rate of these excitons correlates with the long-range magnetic order, likely arising from a spin-flip rooted in the underlying antiferromagnetic background during the recombination. Our findings uncover intertwined coupling between carrier, lattice and spin degrees of freedom in NiPS3, which may pave the path toward ultrafast optical manipulation of spin-related quantum states in vdW antiferromagnets.
 
-Link to the paper: [Phys. Rev. B (Letter)(2025)](https://journals.aps.org/prb/accepted/10.1103/nl4q-ghdg)
+Link to the paper: [Phys. Rev. B (Letter) (2025)](https://journals.aps.org/prb/accepted/10.1103/nl4q-ghdg)
 
 Cheers!!
 
