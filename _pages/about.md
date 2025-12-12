@@ -26,11 +26,7 @@ The emerging magnetic van der Waals (vdW) materials provide a platform for explo
 
 Link to the paper: [Phys. Rev. B (Letter) (2025)](https://journals.aps.org/prb/accepted/10.1103/nl4q-ghdg)
 
-Cheers!!
-
-
-
-
+Congratulations to Boying!!!
 
 
 **Aug. 7, 2025**
@@ -41,9 +37,7 @@ Water plays a crucial role in geological, biological, and technological processe
 
 Link to the paper: [Nat. Commun., 16, 7288 (2025)](https://www.nature.com/articles/s41467-025-62625-w)
 
-Congratulations to Boying Huang!!!
-
-
+Cheers!!
 
 
 **Apr. 18, 2025**
@@ -57,8 +51,6 @@ Link to the paper: [J. Am. Chem. Soc., 147, 14667–14676 (2025)](https://pubs.a
 Congratulations to Qi You!!!
 
 
-
-
 **Mar. 28, 2025**
 
 Our new work at Xiamen University is now published online in **Nature Computational Science**.
@@ -68,9 +60,6 @@ In this work, we introduce NMRNet, a deep learning framework using the SE(3) Tra
 Link to paper: [Nat. Comput. Sci., 5, 292–300 (2025)](https://www.nature.com/articles/s43588-025-00783-z)
 
 Congratulations to Fanjie!!!
-
-
-
 
 
 **Mar. 11, 2025**
@@ -83,6 +72,7 @@ Link to paper: [Phys. Rev. X 15, 011048 (2025)](https://journals.aps.org/prx/abs
 
 The Viewpoint: [Shedding Light on Water Wires](https://physics.aps.org/articles/v18/54), **Physics** 18, 54 (2025)
 
+Cheers!!
 
 
 **Sept. 25, 2024**
@@ -93,6 +83,7 @@ Our paper is in the special collection: "**Festschrift in honor of Yuen-Ron Shen
 
 Link to paper: [J. Chem. Phys., 161, 124702 (2024).](https://doi.org/10.1063/5.0230101)
 
+Congratulations to Xianglong!!!
 
 
 **Mar. 14, 2024**
@@ -100,6 +91,8 @@ Link to paper: [J. Chem. Phys., 161, 124702 (2024).](https://doi.org/10.1063/5.0
 My work at Xiamen University is now published online in **Angewandte Chemie International Edition**. In this work, we developed a machine learning spectroscopic methods, together with experimental collegues from [Prof. Mischa Bonn's department](https://www.mpip-mainz.mpg.de/en/bonn) in [Max Planck Institute for Polymer Research](https://www.mpip-mainz.mpg.de/en/home), examined water molecular structure at a freely suspended graphene/water interface, finding that the SFG response mainly arises from the topmost 1–2 water layers, with minimal contribution from the graphene itself. Graphene weakly interacts with the interfacial water by lowering the vibrational frequency of the dangling O−H group, with a very slight impact on the hydrogen-bonded O−H group.
 
 Link to paper: [Angew. Chem. Int. Ed., 63, e202319503 (2024).](https://doi.org/10.1002/anie.202319503)
+
+Cheers!!
 
 
 **Mar. 8, 2024**
