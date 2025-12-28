@@ -1,7 +1,8 @@
 ---
+layout: archive
+title: "Photos"
 permalink: /Photos/
-title: "Happy Times"
-modified: 2016-06-06
+author_profile: true
 ---
 
 {% include base_path %}
