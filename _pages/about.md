@@ -19,6 +19,7 @@ Last update: 2025-12-29
 News
 ======
 **Dec. 29, 2025**
+
 I am thrilled to announce that I have been promoted to the rank of Full Professor, effective today. Thank you to everyone who has supported me on this journey!
 
 
