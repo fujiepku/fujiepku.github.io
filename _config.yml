@@ -263,6 +263,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _photos
+  - scope:
+      path: ""
+      type: photos
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
