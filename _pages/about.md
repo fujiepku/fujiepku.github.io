@@ -13,11 +13,16 @@ Our research lab specializes in **multimodal spectroscopic computational simulat
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2025-12-12
+Last update: 2025-12-29
 
 
 News
 ======
+**Dec. 29, 2025**
+I am thrilled to announce that I have been promoted to the rank of Full Professor, effective today. Thank you to everyone who has supported me on this journey!
+
+
+
 **Dec. 26, 2025**
 
 Our internal collaborating work with the experimental collegue, [Prof. Ye Yang](https://chem.xmu.edu.cn/info/1422/1288.htm) in [Department of Chemistry at Xiamen University](https://chem.xmu.edu.cn/index.htm) is now published as a Letter in **Physical Review B**. 
