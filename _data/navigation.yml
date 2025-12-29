@@ -18,6 +18,9 @@ main:
   - title: "Awards"
     url: /awards/
 
+  - title: "Photos"
+    url: /Photos/
+
   - title: "Join Us"
     url: /joinus/
   
