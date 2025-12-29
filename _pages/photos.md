@@ -10,16 +10,18 @@ author_profile: true
 
 <div align="center">
 
+
 <figure>
-  <img src="http://fujiepku.github.io/files/2024summer.jpg" width="200" />
+  <img src="http://fujiepku.github.io/files/2025winter.jpg" width="160" />
+  <figcaption><b>欢庆2026新年</b><br>2025年12月28日</figcaption>
+</figure>
+
+<figure>
+  <img src="http://fujiepku.github.io/files/2024summer.jpg" width="160" />
   <figcaption><b>课题组第一次聚会</b><br>2024年6月20日</figcaption>
 </figure>
 
-<br>
 
-<figure>
-  <img src="http://fujiepku.github.io/files/2025winter.jpg" width="200" />
-  <figcaption><b>欢庆2026新年</b><br>2025年12月28日</figcaption>
-</figure>
+
 
 </div>
