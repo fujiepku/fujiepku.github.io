@@ -22,6 +22,8 @@ News
 
 I am thrilled to announce that I have been promoted to the rank of Full Professor, effective today. Thank you to everyone who has supported me on this journey!
 
+Cheers!!
+
 
 
 **Dec. 26, 2025**
