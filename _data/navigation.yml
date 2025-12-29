@@ -19,7 +19,7 @@ main:
     url: /awards/
 
   - title: "Photos"
-    url: /Photos/
+    url: /photos/
 
   - title: "Join Us"
     url: /joinus/
