@@ -21,11 +21,11 @@ Acdemic Positions
 ======
 * Dec. 2025 to present: Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
 
-* Dec. 2025 to present: Research Scientist, Laboratory of AI for Electrochemistry (AI4EC Lab), Tan Kah Kee Innovation Laboratory (IKKEM), Xiamen, Fujian, China
+* Dec. 2025 to present: Research Professor, Laboratory of AI for Electrochemistry (AI4EC Lab), Tan Kah Kee Innovation Laboratory (IKKEM), Xiamen, Fujian, China
 
 * Jan. 2024 to Dec. 2025: Associate Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
 
-* Jan. 2024 to Dec. 2025: Associate Research Scientist, Laboratory of AI for Electrochemistry (AI4EC Lab), Tan Kah Kee Innovation Laboratory (IKKEM), Xiamen, Fujian, China
+* Jan. 2024 to Dec. 2025: Associate Research Professor, Laboratory of AI for Electrochemistry (AI4EC Lab), Tan Kah Kee Innovation Laboratory (IKKEM), Xiamen, Fujian, China
 
 * Oct. 2018 to Oct. 2023: Postdoctoral Fellow, Department of Physics, Temple University, PA, USA
   * Supervisor: Prof. Xifan Wu
