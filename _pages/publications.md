@@ -10,10 +10,12 @@ author_profile: true
 
 <ol reversed>
 
+
+<b>2026</b>
+
+<li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. <b><i>J. Phys. Chem. Lett.</i></b>, accepted. (∗corresponding author)</li>
+
 <b>2025</b>
-
-<li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. Submitted. (∗corresponding author)</li>
-
 
 <li>Kang Wang, Yingchen Peng, Boying Huang, Chun Zhou, Qianlu Sun, <b>Fujie Tang*</b>, Zhenglu Li, Weigao Xu, Kezhao Du, Xingzhi Wang, Ye Yang*. Correlation between Exciton Dynamics and Spin Structure in van der Waals Antiferromagnet NiPS3. <b><i>Phys. Rev. B</i></b> 2025, 112, L220413. (∗corresponding author)</li>
 
