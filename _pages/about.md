@@ -13,11 +13,26 @@ Our research lab specializes in **multimodal spectroscopic computational simulat
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2025-12-29
+Last update: 2026-01-21
 
 
 News
 ======
+
+**Jan. 21, 2026**
+
+Our new work at Xiamen University is now accepted by **The Journal of Physical Chemistry Letters**. 
+
+In this work, we present a novel integrated computational approach that combines machine-learning-driven molecular dynamics simulations with first-principles vibrational spectroscopy calculations to reveal how graphene oxidation alters the interfacial water structures. Our simulations demonstrate that pristine graphene leaves the hydrogen-bond network of interfacial water largely unperturbed, whereas graphene oxide (GO) with surface hydroxyls induces a pronounced Δω ≈ 100 cm⁻¹ redshift of the free-OH vibrational band and a dramatic reduction in its amplitude. These spectral shifts in the computed surface-specific sum-frequency generation spectrum serve as the sensitive molecular markers of the GO oxidation level, reconciling previously conflicting experimental observations. By providing a quantitative spectroscopic fingerprint of GO oxidation, our findings have broad implications for catalysis and electrochemistry, where the structuring of interfacial water is critical to performance.
+
+Link to the paper: [J. Phys. Chem. Lett.](https://arxiv.org/abs/2507.00364), arxiv version.
+
+Congratulations to Xianglong!!!
+
+
+
+
+
 **Dec. 29, 2025**
 
 I am thrilled to announce that I have been promoted to the rank of Full Professor, effective today. Thank you to everyone who has supported me on this journey!
