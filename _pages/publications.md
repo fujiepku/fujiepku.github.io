@@ -13,7 +13,7 @@ author_profile: true
 
 <b>2026</b>
 
-<li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. <b><i>J. Phys. Chem. Lett.</i></b>, accepted. (∗corresponding author)</li>
+<li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. <b><i>J. Phys. Chem. Lett.</i></b>, 2026, 17, 1471–1478. (∗corresponding author)</li>
 
 <b>2025</b>
 
