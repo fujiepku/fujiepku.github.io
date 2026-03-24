@@ -19,7 +19,7 @@ Last update: 2026-01-21
 News
 ======
 
-**Mar. 16, 2026**
+**Mar. 17, 2026**
 
 Boying and I gave two talks at the APS Global Physics Summit in Denver, CO., link to the conference: [https://summit.aps.org/events/MAR-G43/9](https://summit.aps.org/events/MAR-G43/9)
 
