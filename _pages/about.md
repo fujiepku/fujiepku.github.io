@@ -19,6 +19,15 @@ Last update: 2026-01-21
 News
 ======
 
+**Mar. 16, 2026**
+
+Boying and I gave two talk in the APS Global Physics Summit at Denver, Co., link to the conference: [https://summit.aps.org/events/MAR-G43/9](https://summit.aps.org/events/MAR-G43/9)
+
+Cheers!!
+
+
+
+
 **Jan. 25, 2026**
 
 Our new work at Xiamen University is now published online in **The Journal of Physical Chemistry Letters**. 
