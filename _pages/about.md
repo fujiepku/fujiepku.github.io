@@ -21,7 +21,7 @@ News
 
 **Mar. 16, 2026**
 
-Boying and I gave two talk in the APS Global Physics Summit at Denver, Co., link to the conference: [https://summit.aps.org/events/MAR-G43/9](https://summit.aps.org/events/MAR-G43/9)
+Boying and I gave two talks in the APS Global Physics Summit at Denver, Co., link to the conference: [https://summit.aps.org/events/MAR-G43/9](https://summit.aps.org/events/MAR-G43/9)
 
 Cheers!!
 
