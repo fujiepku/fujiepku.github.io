@@ -13,11 +13,18 @@ Our research lab specializes in **multimodal spectroscopic computational simulat
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2026-01-21
+Last update: 2026-04-14
 
 
 News
 ======
+
+**Apr. 14, 2026**
+
+Congratulations to group members: Cao Lu and Xu Wanlin for winning the Outstanding Poster Award of the Second Branch at the 35th Annual Conference of the Chinese Chemical Society, and Du Xianglong for winning the Outstanding Oral Presentation Award of the Second Branch at the same conference! Huang Boying, Xu Fanjie, Xia Jiezhen, and Zhong Suyang also shared their latest work at the conference through flash talks and poster presentations. 
+
+Congratulations!!!
+
 
 **Mar. 17, 2026**
 
