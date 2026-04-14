@@ -11,7 +11,7 @@ author_profile: true
 <div align="center">
 <figure>
   <img src="http://fujiepku.github.io/files/2026ccsposter.jpg" style="max-width: 80%; height: auto;" />
-  <figcaption><b>祝贺翔龙获得优秀口头报告奖、婉琳和曹璐获得优秀海报奖</b><br>2026年4月14日</figcaption>
+  <figcaption><b>祝贺翔龙、婉琳和曹璐获奖</b><br>2026年4月14日</figcaption>
 </figure>
 
 <figure>
