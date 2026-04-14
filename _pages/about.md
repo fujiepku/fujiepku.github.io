@@ -21,7 +21,9 @@ News
 
 **Apr. 14, 2026**
 
-Congratulations to group members: Cao Lu and Xu Wanlin for winning the Outstanding Poster Award of the Second Branch at the 35th Annual Conference of the Chinese Chemical Society, and Du Xianglong for winning the Outstanding Oral Presentation Award of the Second Branch at the same conference! Huang Boying, Xu Fanjie, Xia Jiezhen, and Zhong Suyang also shared their latest work at the conference through flash talks and poster presentations. 
+Congratulations to group members: **Cao Lu** and **Xu Wanlin** for winning the Outstanding Poster Award of the Second Branch at the 35th Annual Conference of the Chinese Chemical Society, and **Du Xianglong** for winning the Outstanding Oral Presentation Award of the Second Branch at the same conference! 
+
+Huang Boying, Xu Fanjie, Xia Jiezhen, and Zhong Suyang also shared their latest work at the conference through flash talks and poster presentations. 
 
 Congratulations!!!
 
