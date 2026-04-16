@@ -15,7 +15,7 @@ author_profile: true
 
 <li>Chun-Chieh Yu#, Xianglong Du#, Kuo-Yang Chiang, Johannes Hunger, Mischa Bonn, <b>Fujie Tang*</b>, and Yuki Nagata*. Two Distinct Types of Free O-H Groups at the Water-Air Interface. Submitted. (∗corresponding author)</li>
 
-<li>Mingyang Xia#, Xianglong Du#, Canbin Wang, Jinguo Liu, Zhihua Zhou, Ying-Ru Qiu, Yao-Hui Wang, <b>Fujie Tang*</b>, Sheng Hu. Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement. Submitted. (∗corresponding author)</li>
+<li>Mingyang Xia#, Xianglong Du#, Canbin Wang, Jinguo Liu, Zhihua Zhou, Ying-Ru Qiu, Yao-Hui Wang, <b>Fujie Tang*</b>, Sheng Hu*. Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement. Submitted. (∗corresponding author)</li>
 
 <li>Lu Cao, Jun Cheng*, <b>Fujie Tang*</b>. Transient antiparallel ordering of acetone at the acetone–water/vapor interface revealed by ab initio-trained deep potential molecular dynamics. Submitted. (∗corresponding author)</li>
 
