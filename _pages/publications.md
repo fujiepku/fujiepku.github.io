@@ -13,6 +13,18 @@ author_profile: true
 
 <b>2026</b>
 
+<li>Chun-Chieh Yu#, Xianglong Du#, Kuo-Yang Chiang, Johannes Hunger, Mischa Bonn, <b>Fujie Tang*</b>, and Yuki Nagata*. Two Distinct Types of Free O-H Groups at the Water-Air Interface. Submitted. (∗corresponding author)</li>
+
+<li>Mingyang Xia#, Xianglong Du#, Canbin Wang, Jinguo Liu, Zhihua Zhou, Ying-Ru Qiu, Yao-Hui Wang, <b>Fujie Tang*</b>, Sheng Hu. Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement. Submitted. (∗corresponding author)</li>
+
+<li>Lu Cao, Jun Cheng*, <b>Fujie Tang*</b>. Transient antiparallel ordering of acetone at the acetone–water/vapor interface revealed by ab initio-trained deep potential molecular dynamics. Submitted. (∗corresponding author)</li>
+
+<li>Suyang Zhong#, Yuhao Zhao#, Boying Huang, Fanjie Xu, Pengwei Xu, Haoyi Tao, Xi Fang*, Jun Cheng*, <b>Fujie Tang*</b>. Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy. Submitted. (∗corresponding author)</li>
+
+<li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. Submitted. (∗corresponding author)</li>
+
+<li>Suyang Zhong, Boying Huang, Pengwei Xu, Fanjie Xu, Yuhao Zhao, Jun Cheng*, <b>Fujie Tang*</b>, Weinan E, Zhong-Qun Tian. Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning. Submitted. (∗corresponding author)</li>
+
 <li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. <b><i>J. Phys. Chem. Lett.</i></b>, 2026, 17, 1471–1478. (∗corresponding author)</li>
 
 <b>2025</b>
