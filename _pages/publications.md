@@ -23,7 +23,7 @@ author_profile: true
 
 <li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. Submitted. (∗corresponding author)</li>
 
-<li>Suyang Zhong, Boying Huang, Pengwei Xu, Fanjie Xu, Yuhao Zhao, Jun Cheng*, <b>Fujie Tang*</b>, Weinan E, Zhong-Qun Tian. Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning. Submitted. (∗corresponding author)</li>
+<li>Suyang Zhong#, Boying Huang#, Pengwei Xu#, Fanjie Xu, Yuhao Zhao, Jun Cheng*, <b>Fujie Tang*</b>, Weinan E, Zhong-Qun Tian. Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning. Submitted. (∗corresponding author)</li>
 
 <li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. <b><i>J. Phys. Chem. Lett.</i></b>, 2026, 17, 1471–1478. (∗corresponding author)</li>
 
