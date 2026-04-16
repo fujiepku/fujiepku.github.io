@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### A updated list of my publications could be found at my Google Scholar page: [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
 
-### **Highlights**: 31 published papers, first/co-first/corresponding/co-corresponding author papers = 19, cited 1718 times, h-index = 15. (Updated: January-21-2026)
+### **Highlights**: 31 published papers, first/co-first/corresponding/co-corresponding author papers = 19, cited 1876 times, h-index = 17. (Updated: April-16-2026)
 
 <ol reversed>
 
