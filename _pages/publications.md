@@ -19,7 +19,6 @@ author_profile: true
 
 <li>Lu Cao, Jun Cheng*, <b>Fujie Tang*</b>. Transient antiparallel ordering of acetone at the acetone–water/vapor interface revealed by ab initio-trained deep potential molecular dynamics. Submitted. (∗corresponding author)</li>
 
-<li>Suyang Zhong#, Yuhao Zhao#, Boying Huang, Fanjie Xu, Pengwei Xu, Haoyi Tao, Xi Fang*, Jun Cheng*, <b>Fujie Tang*</b>. Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy. Submitted. (∗corresponding author)</li>
 
 <li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. Submitted. (∗corresponding author)</li>
 
