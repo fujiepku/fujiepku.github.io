@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-The Computational Spectroscopy of Complex Systems LAB (CS<sup>2</sup>Lab@XMU) is a part of College of Chemistry and Chemical Engineering and [The Laboratory of AI for Electrochemistry (AI4EC lab)](https://ai4ec.ac.cn/). 
+The Computational Spectroscopy of Complex Systems LAB (CS<sup>2</sup>Lab@XMU) is a part of the College of Chemistry and Chemical Engineering and the Laboratory of AI for Electrochemistry (AI4EC lab) at Xiamen University. 
 
 Our research lab specializes in **multimodal spectroscopic computational simulations of complex interfaces**. We focus on developing and applying advanced algorithms to investigate **the intricate relationship between spectral features and microscopic structure**. 
 
