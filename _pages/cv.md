@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a **Full Professor** in the [Pen-Tung Sah Institute of Micro-Nano Science and Technology](https://sbd.xmu.edu.cn/info/1096/8589.htm) at [Xiamen University](https://www.xmu.edu.cn/), I hold a joint appointment as **Research Scientist** in the [Laboratory of AI for Electrochemistry (AI4EC Lab)](https://ai4ec.ac.cn/), Xiamen, Fujian, China. Prior to this promotion, I was an **Associate Professor** at the same institutes from January 2024 to December 2025.
+I am a **Full Professor** in the College of Chemistry and Chemical Engineering at [Xiamen University](https://www.xmu.edu.cn/), I hold a joint appointment as **Research Scientist** in the [Laboratory of AI for Electrochemistry (AI4EC Lab)](https://ai4ec.ac.cn/), Xiamen, Fujian, China. Prior to this promotion, I was an **Associate Professor** at the Xiamen University from January 2024 to December 2025.
 
 Before that, I was a Postdoc Fellow in the [Prof. Xifan Wu's group](https://sites.temple.edu/xifanwu/) at [Department of Physics, Temple University](https://phys.cst.temple.edu/), Philadelphia, Pennsylvania, USA, working on the topics of ab initio modeling of water and theoretical spectroscopy calculations from 2018 to 2023.
 
@@ -19,9 +19,11 @@ I obtained my Ph.D in Physics under the supervision of [Prof. Limei Xu](https://
 
 Acdemic Positions
 ======
-* Dec. 2025 to present: Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
+* Jun. 2026 to present: Professor, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, Fujian, China
 
 * Dec. 2025 to present: Research Professor, Laboratory of AI for Electrochemistry (AI4EC Lab), Tan Kah Kee Innovation Laboratory (IKKEM), Xiamen, Fujian, China
+
+* Dec. 2025 to May. 2026: Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
 
 * Jan. 2024 to Dec. 2025: Associate Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
 
