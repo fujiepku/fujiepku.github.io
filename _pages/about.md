@@ -21,7 +21,7 @@ News
 
 **Jun. 01, 2026**
 
-I move to the College of Chemistry and Chemical Engineering at Xiamen University as a full professor.
+I am very happy to share that I have moved to the **College of Chemistry and Chemical Engineering** at **Xiamen University** as a **Full Professor**. I look forward to this new chapter and to further developing our research in **computational spectroscopy**, **theoretical chemistry**, and **AI for science**.
 
 
 **Apr. 14, 2026**
