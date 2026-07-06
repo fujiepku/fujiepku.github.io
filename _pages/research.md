@@ -12,7 +12,7 @@ A central theme of our research is the **structure–dynamics–spectrum relatio
 Our research spans three interconnected directions:
 
 1. **Theoretical Chemistry and Computational Spectroscopy（理论化学与计算光谱学）**
-2. **AI-Driven Multimodal Spectroscopy for Catalysis and Electrochemistry（面向催化与电化学的人工智能多模态谱学）**
+2. **AI-Driven Multimodal Spectroscopy for Complex Systems（面向复杂化学体系的人工智能多模态谱学）**
 3. **Water, Interfaces, and Matter under Confinement and Extreme Conditions（水、界面与限域和极端条件下的物质）**
 
 ---
