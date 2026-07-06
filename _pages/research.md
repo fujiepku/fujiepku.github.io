@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
 Our group develops **theoretical chemistry, computational spectroscopy, and artificial intelligence methods** to understand complex chemical systems across multiple scales—from electronic excitations and molecular interactions to dynamic interfaces and heterogeneous materials.
 
 A central theme of our research is the **structure–dynamics–spectrum relationship**. We develop accurate computational approaches to predict multimodal spectroscopic signals, establish microscopic connections between spectra and molecular structures, and solve challenging inverse problems that extract structural and chemical information from experimental measurements.
