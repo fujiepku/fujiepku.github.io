@@ -90,7 +90,7 @@ Our current interests include ML-accelerated modeling of:
 * X-ray absorption spectra（X射线吸收谱）;
 * NMR chemical shifts（核磁共振化学位移）;
 * Infrared and Raman spectra（红外与拉曼光谱）;
-* Surface-specific vibrational spectra（表面特异性振动光谱）;
+* Surface-specific vibrational sum frequency generation spectra（表面特异性和频振动光谱）;
 * Optical and excited-state spectra（光学与激发态光谱）.
 
 The ultimate objective is not merely to predict spectra faster, but to enable **spectroscopy calculations at the same statistical scale as molecular dynamics simulations**.
