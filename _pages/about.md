@@ -13,13 +13,13 @@ Our research lab specializes in **multimodal spectroscopic computational simulat
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2026-06-01
+Last update: 2026-07-09
 
 
 News
 ======
 
-**Jun. 01, 2026**
+**Jul. 09, 2026**
 
 I am very happy to share that I have moved to the **College of Chemistry and Chemical Engineering** at **Xiamen University** as a **Full Professor**. I look forward to this new chapter and to further developing our research in **computational spectroscopy**, **theoretical chemistry**, and **AI for science**.
 
