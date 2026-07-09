@@ -19,11 +19,11 @@ I obtained my Ph.D in Physics under the supervision of [Prof. Limei Xu](https://
 
 Acdemic Positions
 ======
-* Jun. 2026 to present: Professor, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, Fujian, China
+* Jul. 2026 to present: Professor, College of Chemistry and Chemical Engineering, Xiamen University, Xiamen, Fujian, China
 
 * Dec. 2025 to present: Research Professor, Laboratory of AI for Electrochemistry (AI4EC Lab), Tan Kah Kee Innovation Laboratory (IKKEM), Xiamen, Fujian, China
 
-* Dec. 2025 to May. 2026: Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
+* Dec. 2025 to Jun. 2026: Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
 
 * Jan. 2024 to Dec. 2025: Associate Professor, Pen-Tung Sah Institute of Micro-Nano Science and Technology, Xiamen University, Xiamen, Fujian, China
 
