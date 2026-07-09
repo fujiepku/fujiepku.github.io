@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a **Full Professor** in the College of Chemistry and Chemical Engineering at [Xiamen University](https://www.xmu.edu.cn/), I hold a joint appointment as **Research Scientist** in the [Laboratory of AI for Electrochemistry (AI4EC Lab)](https://ai4ec.ac.cn/), Xiamen, Fujian, China. Prior to this promotion, I was an **Associate Professor** at the Xiamen University from January 2024 to December 2025.
+I am a **Full Professor** in the [College of Chemistry and Chemical Engineering](https://chem.xmu.edu.cn/) at [Xiamen University](https://www.xmu.edu.cn/), I hold a joint appointment as **Research Scientist** in the [Laboratory of AI for Electrochemistry (AI4EC Lab)](https://ai4ec.ac.cn/), Xiamen, Fujian, China. Prior to this promotion, I was an **Associate Professor** at the Xiamen University from January 2024 to December 2025.
 
 Before that, I was a Postdoc Fellow in the [Prof. Xifan Wu's group](https://sites.temple.edu/xifanwu/) at [Department of Physics, Temple University](https://phys.cst.temple.edu/), Philadelphia, Pennsylvania, USA, working on the topics of ab initio modeling of water and theoretical spectroscopy calculations from 2018 to 2023.
 
