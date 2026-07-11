@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### A updated list of my publications could be found at my Google Scholar page: [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
 
-### **Highlights**: 31 published papers, first/co-first/corresponding/co-corresponding author papers = 19, cited 1920 times, h-index = 17. (Updated: May-04-2026)
+### **Highlights**: 33 published papers, first/co-first/corresponding/co-corresponding author papers = 21, cited 2032 times, h-index = 19. (Updated: July-10-2026)
 
 <ol reversed>
 
@@ -15,14 +15,15 @@ author_profile: true
 
 <li>Chun-Chieh Yu#, Xianglong Du#, Kuo-Yang Chiang, Johannes Hunger, Mischa Bonn, <b>Fujie Tang*</b>, and Yuki Nagata*. Two Distinct Types of Free O-H Groups at the Water-Air Interface. Submitted. (∗corresponding author)</li>
 
-<li>Mingyang Xia#, Xianglong Du#, Canbin Wang, Jinguo Liu, Zhihua Zhou, Ying-Ru Qiu, Yao-Hui Wang, <b>Fujie Tang*</b>, Sheng Hu*. Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement. Submitted. (∗corresponding author)</li>
-
 <li>Lu Cao, Jun Cheng*, <b>Fujie Tang*</b>. Transient antiparallel ordering of acetone at the acetone–water/vapor interface revealed by ab initio-trained deep potential molecular dynamics. Submitted. (∗corresponding author)</li>
-
 
 <li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. Submitted. (∗corresponding author)</li>
 
 <li>Suyang Zhong#, Boying Huang#, Pengwei Xu#, Fanjie Xu, Yuhao Zhao, Jun Cheng*, <b>Fujie Tang*</b>, Weinan E, Zhong-Qun Tian. Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning. Submitted. (∗corresponding author)</li>
+
+<li>Suyang Zhong$^\#$, Yuhao Zhao$^\#$, Boying Huang, Fanjie Xu, Pengwei Xu, Haoyi Tao, Xi Fang$^*$, Jun Cheng$^*$, {\bf Fujie Tang$^*$}. Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy. \textit{34th ACM International Conference on Multimedia (ACM MM)}, 2026. Accepted. (∗corresponding author)</li>
+
+<li>Mingyang Xia#, Xianglong Du#, Canbin Wang, Jinguo Liu, Zhihua Zhou, Ying-Ru Qiu, Yao-Hui Wang, <b>Fujie Tang*</b>, Sheng Hu*. Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement. <b><i>Nat. Commun.</i></b>, 2026. Accepted. (∗corresponding author)</li>
 
 <li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. <b><i>J. Phys. Chem. Lett.</i></b>, 2026, 17, 1471–1478. (∗corresponding author)</li>
 
