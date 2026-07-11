@@ -22,15 +22,9 @@ News
 **Jul. 10, 2026**
 
 
-### Jul. 11, 2026
-
 Our new work at Xiamen University, **“Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy,”** has been accepted by **ACM Multimedia 2026 (ACM MM 2026)**. This is also our group’s first AI4S paper accepted by a CCF-A conference.
 
-In this work, we present **Uni-XAS**, a unified multimodal learning framework that reformulates bidirectional X-ray absorption spectroscopy modeling as a cross-modal alignment and conditional generation problem. Based on a standardized benchmark containing **328,839 structure–spectrum pairs across 43 absorber elements**, Uni-XAS learns a shared latent space connecting one-dimensional XAS spectra with absorber-centered three-dimensional local atomic structures.
-
-We further introduce **XASLip** for fine-grained structure–spectrum alignment, retrieval-augmented decoding for absolute-spectrum prediction, and **Permutation-Rectified Flow Matching (PR-Flow)** for composition-conditioned 3D local-structure generation. The framework enables bidirectional cross-modal retrieval, accurate prediction of absolute absorption-edge positions and spectral intensities, and direct generation of possible local 3D structures from XAS spectra. 
-
-This work provides a scalable and protocol-consistent foundation for multimodal learning in scientific spectroscopy. It may facilitate the future integration of experimental spectra, first-principles simulations, and materials databases for structural analysis in catalysis, energy materials, and complex interfacial systems.
+In this work, we present **Uni-XAS**, a unified multimodal learning framework that reformulates bidirectional X-ray absorption spectroscopy modeling as a cross-modal alignment and conditional generation problem. Based on a standardized benchmark containing **328,839 structure–spectrum pairs across 43 absorber elements**, Uni-XAS learns a shared latent space connecting one-dimensional XAS spectra with absorber-centered three-dimensional local atomic structures. We further introduce **XASLip** for fine-grained structure–spectrum alignment, retrieval-augmented decoding for absolute-spectrum prediction, and **Permutation-Rectified Flow Matching (PR-Flow)** for composition-conditioned 3D local-structure generation. The framework enables bidirectional cross-modal retrieval, accurate prediction of absolute absorption-edge positions and spectral intensities, and direct generation of possible local 3D structures from XAS spectra. This work provides a scalable and protocol-consistent foundation for multimodal learning in scientific spectroscopy. It may facilitate the future integration of experimental spectra, first-principles simulations, and materials databases for structural analysis in catalysis, energy materials, and complex interfacial systems.
 
 **Link to the paper:** [OpenReview](https://openreview.net/forum?id=2IyUBZteXf)
 
