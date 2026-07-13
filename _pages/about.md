@@ -13,11 +13,26 @@ Our research lab specializes in **multimodal spectroscopic computational simulat
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2026-07-10
+Last update: 2026-07-13
 
 
 News
 ======
+
+**Jul. 13, 2026**
+
+
+Our new collaborative work with Prof. Sheng Hu’s group at Xiamen University, **“Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement,”** is now published online in **Nature Communications**.
+
+In this work, we investigate how different interlayer ions regulate water transport through vermiculite-based two-dimensional nanochannels. The experiments reveal that weakly hydrated ions promote unexpectedly fast water permeation by disrupting the connectivity of the confined hydrogen-bond network. A central component of this study is the molecular dynamics simulation. The simulations reveal how ion-specific hydration restructures confined water at the molecular level. Weakly hydrated ions shorten hydrogen-bond lifetimes and increase the population of dynamically exchanging water molecules, thereby accelerating lateral water diffusion. These results provide a microscopic explanation for the experimentally observed ion-dependent transport behavior.
+
+Xianglong Du and Fujie Tang contributed to the molecular dynamics simulations and microscopic interpretation.
+
+**Link to the paper:** [Nature Communications](https://www.nature.com/articles/s41467-026-75604-6).
+
+Congratulations to Xianglong!!!
+
+
 
 **Jul. 10, 2026**
 
