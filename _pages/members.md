@@ -12,9 +12,9 @@ redirect_from:
 
 **Principal Investigator**
 
-* Dr. Fujie Tang; Email: [tangfujie@xmu.edu.cn](tangfujie@xmu.edu.cn)
+* Prof. Dr. Fujie Tang; Email: [tangfujie@xmu.edu.cn](tangfujie@xmu.edu.cn)
 
-  Office I: Room B513-1, Wenxuan Building, Xiang'an Campus, Xiang'an, Xiamen, Fujian
+  Office I: Room B308, Zengchengkui Building, Siming Campus, Xiang'an, Xiamen, Fujian
 
   Office II: Room 306, Yuanhui Building, Software Park I, Siming, Xiamen, Fujian
 
@@ -26,6 +26,8 @@ redirect_from:
 * Mr. Xianglong Du (2025); Email: [duxianglong@stu.xmu.edu.cn](duxianglong@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
 * Mr. Fanjie Xu (2025); Email: [xufanjie@stu.xmu.edu.cn](xufanjie@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
 * Ms. Wanlin Xu (2025); Email: [xuwanlin@stu.xmu.edu.cn](xuwanlin@stu.xmu.edu.cn). Joint Program.
+* Mr. Xiao Shang (2026); Upcoming Student.
+
 
 **Master Student**
 
@@ -34,6 +36,6 @@ redirect_from:
 * Mr. Suyang Zhong (2024); Email: [33520241153406@stu.xmu.edu.cn](33520241153406@stu.xmu.edu.cn)
 * Ms. Lu Cao (2025); Email: [caolu@stu.xmu.edu.cn](caolu@stu.xmu.edu.cn). 
 * Mr. Yuyang Zhu (2025); Email: [zhuyuyang@stu.xmu.edu.cn](zhuyuyang@stu.xmu.edu.cn).
-
+* Mr. Ce Sun (2026); Upcoming Student.
 **Undergraduate Student**
 
