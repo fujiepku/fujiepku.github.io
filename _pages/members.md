@@ -37,5 +37,6 @@ redirect_from:
 * Ms. Lu Cao (2025); Email: [caolu@stu.xmu.edu.cn](caolu@stu.xmu.edu.cn). 
 * Mr. Yuyang Zhu (2025); Email: [zhuyuyang@stu.xmu.edu.cn](zhuyuyang@stu.xmu.edu.cn).
 * Mr. Ce Sun (2026); Upcoming Student.
+
 **Undergraduate Student**
 
