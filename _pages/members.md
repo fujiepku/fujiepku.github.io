@@ -14,7 +14,7 @@ redirect_from:
 
 * Prof. Dr. Fujie Tang; Email: [tangfujie@xmu.edu.cn](tangfujie@xmu.edu.cn)
 
-  Office I: Room B308, Zengchengkui Building, Siming Campus, Xiang'an, Xiamen, Fujian
+  Office I: Room B308, Zengchengkui Building, Siming Campus, Siming, Xiamen, Fujian
 
   Office II: Room 306, Yuanhui Building, Software Park I, Siming, Xiamen, Fujian
 
