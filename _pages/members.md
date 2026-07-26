@@ -12,7 +12,7 @@ redirect_from:
 
 **Principal Investigator**
 
-* Prof. Dr. Fujie Tang; Email: [tangfujie@xmu.edu.cn](tangfujie@xmu.edu.cn)
+* Prof. Dr. Fujie Tang; Email: [tangfujie@xmu.edu.cn](tangfujie@xmu.edu.cn); [University Profile](https://chem.xmu.edu.cn/info/1421/126815.htm);[AI4EC_Lab Profile]{https://ai4ec.ac.cn/zh/intro/team_tangfujie}
 
   Office I: Room B308, Zengchengkui Building, Siming Campus, Siming, Xiamen, Fujian
 
