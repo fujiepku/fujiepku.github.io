@@ -17,6 +17,8 @@ author_profile: true
 
 <li>Lu Cao, Jun Cheng*, <b>Fujie Tang*</b>. Transient antiparallel ordering of acetone at the acetone–water/vapor interface revealed by ab initio-trained deep potential molecular dynamics. Submitted. (∗corresponding author)</li>
 
+<li>Sheng Bi*, Wei-Hong Xu, Yong-Bin Zhuang, Jia-Xin Zhu, Jiang-Peng Qiu, Yu-Hang Tang, Xiang-Long Du, Qi You, Yun-Pei Liu, Fu-Qiang Gong, Yu-Xin Guo, Yi-Ze Wang, Cheng-Xuan Wang, Zi-Heng Gong, Zi-Qiang Chen, Chang Liu, Si-Yuan Han, Jian Gu, Jia-Xin Li, Yi-Ming Chen, Lin Huang, Si-Jie Chen, Bo-Ying Huang, Jie-Zhen Xia, Fan-Jie Xu, Su-Yang Zhong, Peng-Wei Xu, Jun-Yi Wang, Xing-Yun Xie, Yu-Lei Gong, Yan-Yi Su, Yue Liu, Rui-Hao Bi, Lang Li, Fei-Teng Wang, Jing-Xiang Zou, Mei Jia, Jie-Qiong Li, Min Lin, Qi-Yuan Fan, Juan-Juan Sun, Jia-Bo Le, Zixuan Wei, Jin-Yuan Hu, Meng-Lei Jia, Yan Sun, Xiao-Hui Yang*, <b>Fujie Tang*</b>, Feng Wang*, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. Submitted. (∗corresponding author)</li>
+
 <li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. Submitted. (∗corresponding author)</li>
 
 <li>Suyang Zhong#, Boying Huang#, Pengwei Xu#, Fanjie Xu, Yuhao Zhao, Jun Cheng*, <b>Fujie Tang*</b>, Weinan E, Zhong-Qun Tian. Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning. Submitted. (∗corresponding author)</li>
