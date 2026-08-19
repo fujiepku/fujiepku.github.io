@@ -28,7 +28,7 @@ In this work, we investigate how different interlayer ions regulate water transp
 
 Xianglong Du and Fujie Tang contributed to the molecular dynamics simulations and microscopic interpretation.
 
-**Link to the paper:** [Nature Communications](https://www.nature.com/articles/s41467-026-75604-6).
+**Link to the paper:** [Nat. Commun., 17, 8585 (2026)](https://www.nature.com/articles/s41467-026-75604-6).
 
 Congratulations to Xianglong!!!
 

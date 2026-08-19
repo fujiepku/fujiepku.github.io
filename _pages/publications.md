@@ -25,7 +25,7 @@ author_profile: true
 
 <li>Suyang Zhong$#, Yuhao Zhao#, Boying Huang, Fanjie Xu, Pengwei Xu, Haoyi Tao, Xi Fang*, Jun Cheng*, <b>Fujie Tang*</b>. Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy. <b><i>34th ACM International Conference on Multimedia (ACM MM)</i></b>, 2026. Accepted. (∗corresponding author)</li>
 
-<li>Mingyang Xia#, Xianglong Du#, Canbin Wang, Jinguo Liu, Zhihua Zhou, Ying-Ru Qiu, Yao-Hui Wang, <b>Fujie Tang*</b>, Sheng Hu*. Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement. <b><i>Nat. Commun.</i></b>, 2026. Accepted. (∗corresponding author)</li>
+<li>Mingyang Xia#, Xianglong Du#, Canbin Wang, Jinguo Liu, Zhihua Zhou, Ying-Ru Qiu, Yao-Hui Wang, <b>Fujie Tang*</b>, Sheng Hu*. Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement. <b><i>Nat. Commun.</i></b>, 2026, 17, 8585. (∗corresponding author)</li>
 
 <li>Xianglong Du, Jun Cheng*, <b>Fujie Tang*</b>. Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water. <b><i>J. Phys. Chem. Lett.</i></b>, 2026, 17, 1471–1478. (∗corresponding author)</li>
 
