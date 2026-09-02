@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### A updated list of my publications could be found at my Google Scholar page: [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
 
-### **Highlights**: 33 published papers, first/co-first/corresponding/co-corresponding author papers = 21, cited 2032 times, h-index = 19. (Updated: July-13-2026)
+### **Highlights**: 33 published papers, first/co-first/corresponding/co-corresponding author papers = 21, cited 2122 times, h-index = 18. (Updated: Sept-02-2026)
 
 <ol reversed>
 
@@ -17,7 +17,7 @@ author_profile: true
 
 <li>Lu Cao, Jun Cheng*, <b>Fujie Tang*</b>. Transient antiparallel ordering of acetone at the acetone–water/vapor interface revealed by ab initio-trained deep potential molecular dynamics. Submitted. (∗corresponding author)</li>
 
-<li>Sheng Bi*, Wei-Hong Xu, Yong-Bin Zhuang, Jia-Xin Zhu, Jiang-Peng Qiu, Yu-Hang Tang, Xiang-Long Du, Qi You, Yun-Pei Liu, Fu-Qiang Gong, Yu-Xin Guo, Yi-Ze Wang, Cheng-Xuan Wang, Zi-Heng Gong, Zi-Qiang Chen, Chang Liu, Si-Yuan Han, Jian Gu, Jia-Xin Li, Yi-Ming Chen, Lin Huang, Si-Jie Chen, Bo-Ying Huang, Jie-Zhen Xia, Fan-Jie Xu, Su-Yang Zhong, Peng-Wei Xu, Jun-Yi Wang, Xing-Yun Xie, Yu-Lei Gong, Yan-Yi Su, Yue Liu, Rui-Hao Bi, Lang Li, Fei-Teng Wang, Jing-Xiang Zou, Mei Jia, Jie-Qiong Li, Min Lin, Qi-Yuan Fan, Juan-Juan Sun, Jia-Bo Le, Zixuan Wei, Jin-Yuan Hu, Meng-Lei Jia, Yan Sun, Xiao-Hui Yang*, <b>Fujie Tang*</b>, Feng Wang*, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. Submitted. (∗corresponding author)</li>
+<li>Sheng Bi*, Wei-Hong Xu, Yong-Bin Zhuang, Jia-Xin Zhu, Jiang-Peng Qiu, Yu-Hang Tang, Xiang-Long Du, Qi You, Yun-Pei Liu, Fu-Qiang Gong, Yu-Xin Guo, Yi-Ze Wang, Cheng-Xuan Wang, Zi-Heng Gong, Zi-Qiang Chen, Chang Liu, Si-Yuan Han, Jian Gu, Jia-Xin Li, Yi-Ming Chen, Lin Huang, Si-Jie Chen, Bo-Ying Huang, Jie-Zhen Xia, Fan-Jie Xu, Su-Yang Zhong, Peng-Wei Xu, Jun-Yi Wang, Xing-Yun Xie, Yu-Lei Gong, Yan-Yi Su, Yue Liu, Rui-Hao Bi, Lang Li, Fei-Teng Wang, Jing-Xiang Zou, Mei Jia, Jie-Qiong Li, Min Lin, Qi-Yuan Fan, Juan-Juan Sun, Jia-Bo Le, Zixuan Wei, Jin-Yuan Hu, Meng-Lei Jia, Yan Sun, Xiao-Hui Yang*, <b>Fujie Tang*</b>, Feng Wang*, Jun Cheng*. Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems. Submitted. (∗corresponding author)</li>
 
 <li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. Submitted. (∗corresponding author)</li>
 
@@ -100,7 +100,7 @@ author_profile: true
 
 <li>Tatsuhiko Ohto, Mayank Dodia, Jianhang Xu, Sho Imoto, <b>Fujie Tang</b>, Frederik Zysk, Thomas D. Kuhne, Yasuteru Shigeta, Mischa Bonn, Xifan Wu, Yuki Nagata. Accessing the Accuracy of Density Functional Theory through Structure and Dynamics of the Water–Air Interface. <b><i>J. Phys. Chem. Lett.</i></b>, 2019, 123, 099602.</li>
 
-<li>Ruidan Zhang, Jichao Dong, Ting Luo, <b>Fujie Tang</b>, Xingxing Peng, Chuanyao Zhou, Xueming Yang, Limei Xu, Zefeng Ren. Adsorption Structure and CoverageDependent Orientation Analysis of Submonolayer Acetonitrile on TiO2(110). <b><i>J. Phys. Chem. C</i></b>, 2019, 123, 17915-17924.</li>
+<li>Ruidan Zhang, Jichao Dong, Ting Luo, <b>Fujie Tang</b>, Xingxing Peng, Chuanyao Zhou, Xueming Yang, Limei Xu, Zefeng Ren. Adsorption Structure and Coverage Dependent Orientation Analysis of Submonolayer Acetonitrile on TiO2(110). <b><i>J. Phys. Chem. C</i></b>, 2019, 123, 17915-17924.</li>
 
 <br />
 <b>2018</b>
