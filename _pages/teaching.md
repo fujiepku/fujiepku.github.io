@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* **2026年秋季学期**
+ 1. 本科生课程：《化学理论A》&《化学理论B》，5学分（合上）
+
 * **2026年春季学期**
  1. 研究生课程：《数理统计》，3学分
 

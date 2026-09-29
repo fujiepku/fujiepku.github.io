@@ -13,11 +13,25 @@ Our research lab specializes in **multimodal spectroscopic computational simulat
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2026-07-13
+Last update: 2026-09-24
 
 
 News
 ======
+
+**Sept. 24, 2026**
+
+
+Our new work at Xiamen University is now accepted by **Nature Communications**.
+
+In this work, we introduce NMRPeak, a unified cross-modal learning system that integrates these three tasks through experimentally grounded design. We curate approximately 1.8 million experimental and simulated spectra to construct the largest benchmark for NMR-based structure elucidation and systematically quantify the distribution shift between these domains. We introduce a chemically-aware adaptive tokenizer that dynamically balances discretization granularity to preserve spectral semantics while controlling vocabulary size, and an assignment-free peak-aware similarity metric that enables direct comparison between predicted and experimental spectra. Through a unified molecule-to-spectrum paradigm and synergistic coupling of prediction, retrieval, and generation modules, NMRPeak achieves transformative performance on experimental benchmarks: it overcomes the longstanding simulation-to-experiment gap in spectrum prediction while delivering over 95% top-1 accuracy in molecular retrieval and approximately 75% top-1 accuracy in stereochemistry-aware de novo structure generation. These capabilities establish a foundation for automated, high-throughput molecular structure elucidation in organic synthesis, drug discovery, and chemical biology.
+
+Link to paper: [Arxiv](https://arxiv.org/abs/2602.08752)
+
+Congratulations to Fanjie!!!
+
+
+
 
 **Jul. 13, 2026**
 
