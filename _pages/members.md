@@ -27,12 +27,10 @@ redirect_from:
 * Mr. Fanjie Xu (2025); Email: [xufanjie@stu.xmu.edu.cn](xufanjie@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
 * Ms. Wanlin Xu (2025); Email: [xuwanlin@stu.xmu.edu.cn](xuwanlin@stu.xmu.edu.cn). Joint Program.
 * Mr. Xiao Shang (2026); Email: [shangxiao@stu.xmu.edu.cn](shangxiao@stu.xmu.edu.cn)
-
+* Mr. Pengwei Xu (2026); Email: [xupengwei@stu.xmu.edu.cn](xupengwei@stu.xmu.edu.cn), coadvised with [Prof. Zhongqun Tian](https://zqtian.xmu.edu.cn/).
 
 **Master Student**
 
-
-* Mr. Pengwei Xu (2023); Email: [xupengwei@stu.xmu.edu.cn](xupengwei@stu.xmu.edu.cn), coadvised with [Prof. Jun Cheng](https://www.cheng-group.net/).
 * Mr. Suyang Zhong (2024); Email: [33520241153406@stu.xmu.edu.cn](33520241153406@stu.xmu.edu.cn)
 * Ms. Lu Cao (2025); Email: [caolu@stu.xmu.edu.cn](caolu@stu.xmu.edu.cn). 
 * Mr. Yuyang Zhu (2025); Email: [zhuyuyang@stu.xmu.edu.cn](zhuyuyang@stu.xmu.edu.cn).
@@ -40,4 +38,6 @@ redirect_from:
 * Mr. Jinglong Wu (2026); Email: [wujinlong@stu.xmu.edu.cn](wujinlong@stu.xmu.edu.cn)
 
 **Undergraduate Student**
-
+* Mr. Yijie Zeng (2027); Nankai University
+* Mr. Sen Lin (2027); Northeast Normal University
+* Mr. Tao Fang (2027); Jiangxi Normal University
