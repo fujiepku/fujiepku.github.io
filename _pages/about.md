@@ -13,11 +13,23 @@ Our research lab specializes in **multimodal spectroscopic computational simulat
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2026-09-24
+Last update: 2026-10-21
 
 
 News
 ======
+
+
+**Oct. 21, 2026**
+
+Our new internal collaborative work at Xiamen University, “Beyond Swelling: Electrochemical Doping Tunes the Balance between Ion Compensation and Exchange in a Hydrated Organic Mixed Ionic–Electronic Conductor,” has been accepted by the **Journal of the American Chemical Society**.
+
+In this work, we combine constant-potential molecular simulations with computational SFG spectroscopy and experimental NMR to investigate polymer–ion–water reorganization during electrochemical doping. Our layer-resolved SFG calculations identify distinct vibrational signatures of weakly hydrogen-bonded water in the polymer side-chain region, while experimental ²³Na and ³⁵Cl NMR measurements reveal polymer-induced changes in ionic environments. These complementary spectroscopic analyses support the interfacial model and help interpret the doping-dependent balance between ion compensation and exchange.
+
+Congratulations to Wanlin and all collaborators!!!
+
+
+
 
 **Sept. 24, 2026**
 

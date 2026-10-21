@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### A updated list of my publications could be found at my Google Scholar page: [Google Scholar](https://scholar.google.com/citations?user=-Rx1hiIAAAAJ&hl=en) 
 
-### **Highlights**: 33 published papers, first/co-first/corresponding/co-corresponding author papers = 21, cited 2122 times, h-index = 18. (Updated: Sept-02-2026)
+### **Highlights**: 35 published papers, first/co-first/corresponding/co-corresponding author papers = 23, cited 2211 times, h-index = 19. (Updated: Oct-21-2026)
 
 <ol reversed>
 
@@ -20,6 +20,8 @@ author_profile: true
 <li>Sheng Bi*, Wei-Hong Xu, Yong-Bin Zhuang, Jia-Xin Zhu, Jiang-Peng Qiu, Yu-Hang Tang, Xiang-Long Du, Qi You, Yun-Pei Liu, Fu-Qiang Gong, Yu-Xin Guo, Yi-Ze Wang, Cheng-Xuan Wang, Zi-Heng Gong, Zi-Qiang Chen, Chang Liu, Si-Yuan Han, Jian Gu, Jia-Xin Li, Yi-Ming Chen, Lin Huang, Si-Jie Chen, Bo-Ying Huang, Jie-Zhen Xia, Fan-Jie Xu, Su-Yang Zhong, Peng-Wei Xu, Jun-Yi Wang, Xing-Yun Xie, Yu-Lei Gong, Yan-Yi Su, Yue Liu, Rui-Hao Bi, Lang Li, Fei-Teng Wang, Jing-Xiang Zou, Mei Jia, Jie-Qiong Li, Min Lin, Qi-Yuan Fan, Juan-Juan Sun, Jia-Bo Le, Zixuan Wei, Jin-Yuan Hu, Meng-Lei Jia, Yan Sun, Xiao-Hui Yang*, <b>Fujie Tang*</b>, Feng Wang*, Jun Cheng*. Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems. Submitted. (∗corresponding author)</li>
 
 <li>Suyang Zhong#, Boying Huang#, Pengwei Xu#, Fanjie Xu, Yuhao Zhao, Jun Cheng*, <b>Fujie Tang*</b>, Weinan E, Zhong-Qun Tian. Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning. Submitted. (∗corresponding author)</li>
+
+<li>Zixuan Wei, Ying Xiang, Hesam Makki, Wanlin Xu, Xingli Chen, Chao Deng, ShengBi, Xiaohui Yang, Yan Sun, Feng Wang*, Jianhua Chen*, Paola Carbone, <b>Fujie Tang*</b>, Alessandro Troisi, Jun Cheng*. Beyond Swelling: Electrochemical Doping Tunes the Balance between Ion Compensation and Exchange in a Hydrated Organic Mixed Ionic–Electronic Conductor. <b><i>J. Am. Chem. Soc.</i></b>, 2026, Accepted. (∗corresponding author)</li>
 
 <li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. <b><i>Nat. Commun.</i></b>, 2026, Accepted. (∗corresponding author)</li>
 
