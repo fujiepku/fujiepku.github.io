@@ -21,11 +21,11 @@ author_profile: true
 
 <li>Suyang Zhong#, Boying Huang#, Pengwei Xu#, Fanjie Xu, Yuhao Zhao, Jun Cheng*, <b>Fujie Tang*</b>, Weinan E, Zhong-Qun Tian. Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning. Submitted. (∗corresponding author)</li>
 
-<li>Zixuan Wei, Ying Xiang, Hesam Makki, Wanlin Xu, Xingli Chen, Chao Deng, ShengBi, Xiaohui Yang, Yan Sun, Feng Wang*, Jianhua Chen*, Paola Carbone, <b>Fujie Tang*</b>, Alessandro Troisi, Jun Cheng*. Beyond Swelling: Electrochemical Doping Tunes the Balance between Ion Compensation and Exchange in a Hydrated Organic Mixed Ionic–Electronic Conductor. <b><i>J. Am. Chem. Soc.</i></b>, 2026, Accepted. (∗corresponding author)</li>
+<li>Zixuan Wei, Ying Xiang, Hesam Makki, Wanlin Xu, Xingli Chen, Chao Deng, ShengBi, Xiaohui Yang, Yan Sun, Feng Wang*, Jianhua Chen*, Paola Carbone, <b>Fujie Tang*</b>, Alessandro Troisi, Jun Cheng*. Beyond Swelling: Electrochemical Doping Tunes the Balance between Ion Compensation and Exchange in a Hydrated Organic Mixed Ionic–Electronic Conductor. <b><i>J. Am. Chem. Soc.</i></b>, 2026, accepted. (∗corresponding author)</li>
 
-<li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. <b><i>Nat. Commun.</i></b>, 2026, Accepted. (∗corresponding author)</li>
+<li>Fanjie Xu, Jinyuan Hu, Jingxiang Zou, Junjie Wang, Boying Huang, Zhifeng Gao, Xiaohong Ji*, Weinan E, Zhong-Qun Tian, <b>Fujie Tang*</b>, Jun Cheng*. NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning. <b><i>Nat. Commun.</i></b>, 2026, accepted. (∗corresponding author)</li>
 
-<li>Suyang Zhong$#, Yuhao Zhao#, Boying Huang, Fanjie Xu, Pengwei Xu, Haoyi Tao, Xi Fang*, Jun Cheng*, <b>Fujie Tang*</b>. Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy. <b><i>34th ACM International Conference on Multimedia (ACM MM)</i></b>, 2026. Accepted. (∗corresponding author)</li>
+<li>Suyang Zhong$#, Yuhao Zhao#, Boying Huang, Fanjie Xu, Pengwei Xu, Haoyi Tao, Xi Fang*, Jun Cheng*, <b>Fujie Tang*</b>. Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy. <b><i>34th ACM International Conference on Multimedia (ACM MM)</i></b>, 2026. accepted. (∗corresponding author)</li>
 
 <li>Mingyang Xia#, Xianglong Du#, Canbin Wang, Jinguo Liu, Zhihua Zhou, Ying-Ru Qiu, Yao-Hui Wang, <b>Fujie Tang*</b>, Sheng Hu*. Ion-disrupted hydrogen-bond networks enable fast water transport under two-dimensional confinement. <b><i>Nat. Commun.</i></b>, 2026, 17, 8585. (∗corresponding author)</li>
 
