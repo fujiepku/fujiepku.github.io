@@ -41,45 +41,7 @@ We develop computational methods for predicting and interpreting a broad range o
 
 Rather than treating each spectroscopy technique independently, we aim to establish a unified theoretical framework in which different spectroscopic modalities provide complementary projections of the same underlying molecular and electronic structure.
 
-### 1.3 Molecular Dynamics and Accelerated Simulation of Complex Chemical Environments（复杂化学环境的分子动力学与加速模拟）
-
-Many experimentally relevant spectra arise from dynamic and heterogeneous molecular environments that cannot be represented by a single optimized structure.
-
-We therefore develop and apply **first-principles molecular dynamics and accelerated molecular simulation methods** to sample realistic structural ensembles and dynamic processes. Machine-learning interatomic potentials and active-learning strategies are integrated with electronic-structure and spectroscopy calculations to reach spatial and temporal scales inaccessible to conventional first-principles simulations.
-
-Our long-term goal is to establish an integrated computational workflow:
-
-> **Electronic structure（电子结构） → Molecular dynamics（分子动力学） → Statistical ensembles（统计系综） → Spectroscopy（光谱） → Microscopic mechanism（微观机制）**
-
-### Selected Publications
-
-1. **F. Tang**, D. Y. Qiu, and X. Wu,
-   *Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-Bond Network*,
-   **Physical Review X**, 2025, **15**, 011048.
-
-2. **F. Tang**, Z. Li, C. Zhang, S. G. Louie, R. Car, D. Y. Qiu, and X. Wu,
-   *Many-Body Effects in the X-ray Absorption Spectra of Liquid Water*,
-   **Proceedings of the National Academy of Sciences of the United States of America**, 2022, **119**, e2201258119.
-
-3. **F. Tang**, K. Shi, and X. Wu,
-   *Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution Using the GW–Bethe–Salpeter-Equation Approach*,
-   **The Journal of Chemical Physics**, 2023, **159**, 174501.
-
-4. **F. Tang**, J. Xu, D. Y. Qiu, and X. Wu,
-   *Nuclear Quantum Effects on the Quasiparticle Properties of the Chloride Anion Aqueous Solution within the GW Approximation*,
-   **Physical Review B**, 2021, **104**, 035117.
-
----
-
-## 2. AI-Driven Multimodal Spectroscopy for Catalysis and Electrochemistry（面向催化与电化学的人工智能多模态谱学）
-
-This research is supported by the **National Key R&D Program of China (国家重点研发计划)** in **Catalysis Science (催化科学)** and related research programs in computational spectroscopy and artificial intelligence.
-
-Spectroscopy is one of the most important tools for identifying active structures, reaction intermediates, solvation environments, and dynamic transformations in chemistry. However, interpreting spectra from realistic catalytic and electrochemical systems remains challenging because these systems are heterogeneous, dynamic, and often characterized by non-unique structure–spectrum relationships.
-
-We develop **physics-informed and interpretable artificial intelligence methods** to transform spectroscopy from a primarily experience-driven characterization tool into a quantitative approach for structural inference and chemical mechanism discovery.
-
-### 2.1 Machine-Learning-Accelerated Computational Spectroscopy（机器学习加速的计算光谱学）
+### 1.3 Machine-Learning-Accelerated Computational Spectroscopy（机器学习加速的计算光谱学）
 
 High-level spectroscopy calculations are often orders of magnitude more expensive than molecular simulations, creating a major bottleneck for studying realistic dynamic systems.
 
@@ -95,7 +57,48 @@ Our current interests include ML-accelerated modeling of:
 
 The ultimate objective is not merely to predict spectra faster, but to enable **spectroscopy calculations at the same statistical scale as molecular dynamics simulations**.
 
-### 2.2 Physics-Informed Forward and Inverse Spectroscopy（物理信息驱动的光谱正问题与反问题）
+
+### 1.4 Molecular Dynamics and Accelerated Simulation of Complex Chemical Environments（复杂化学环境的分子动力学与加速模拟）
+
+Many experimentally relevant spectra arise from dynamic and heterogeneous molecular environments that cannot be represented by a single optimized structure.
+
+We therefore develop and apply **first-principles molecular dynamics and accelerated molecular simulation methods** to sample realistic structural ensembles and dynamic processes. Machine-learning interatomic potentials and active-learning strategies are integrated with electronic-structure and spectroscopy calculations to reach spatial and temporal scales inaccessible to conventional first-principles simulations.
+
+Our long-term goal is to establish an integrated computational workflow:
+
+> **Electronic structure（电子结构） → Molecular dynamics（分子动力学） → Statistical ensembles（统计系综） → Spectroscopy（光谱） → Microscopic mechanism（微观机制）**
+
+### Selected Publications
+
+1. S. Bi\*, W.-H. Xu, Y.-B. Zhuang, J.-X. Zhu, J.-P. Qiu, Y.-H. Tang, X.-L. Du, Q. You, Y.-P. Liu, F.-Q. Gong, Y.-X. Guo, Y.-Z. Wang, C.-X. Wang, Z.-H. Gong, Z.-Q. Chen, C. Liu, S.-Y. Han, J. Gu, J.-X. Li, Y.-M. Chen, L. Huang, S.-J. Chen, B.-Y. Huang, J.-Z. Xia, F.-J. Xu, S.-Y. Zhong, P.-W. Xu, J.-Y. Wang, X.-Y. Xie, Y.-L. Gong, Y.-Y. Su, Y. Liu, R.-H. Bi, L. Li, F.-T. Wang, J.-X. Zou, M. Jia, J.-Q. Li, M. Lin, Q.-Y. Fan, J.-J. Sun, J.-B. Le, Z. Wei, J.-Y. Hu, M.-L. Jia, Y. Sun, X.-H. Yang\*, **F. Tang\***, F. Wang\*, and J. Cheng\*, Ai2-Kit: Streamlining AI-Accelerated Ab Initio Workflows for Complex Chemical Systems, *arXiv*, **2026**, [arXiv:2607.00613](https://arxiv.org/abs/2607.00613). **Preprint**.
+
+2. Z. Wei, Y. Xiang, H. Makki, W. Xu, X. Chen, C. Deng, S. Bi, X. Yang, Y. Sun, F. Wang\*, J. Chen\*, P. Carbone, **F. Tang\***, A. Troisi, and J. Cheng\*, Beyond Swelling: Electrochemical Doping Tunes the Balance between Ion Compensation and Exchange in a Hydrated Organic Mixed Ionic–Electronic Conductor, *Journal of the American Chemical Society*, **2026**, accepted.
+
+3. Q. You, Y. Sun, F. Wang, J. Cheng\*, and **F. Tang\***, Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning, *Journal of the American Chemical Society*, **2025**, *147*, 14667–14676. [arXiv:2501.07321](https://arxiv.org/abs/2501.07321).
+
+4. K. Wang, Y. Peng, B. Huang, C. Zhou, Q. Sun, **F. Tang\***, Z. Li, W. Xu, K. Du, X. Wang, and Y. Yang\*, Correlation between Exciton Dynamics and Spin Structure in the van der Waals Antiferromagnet NiPS₃, *Physical Review B*, **2025**, *112*, L220413. [arXiv:2508.06246](https://arxiv.org/abs/2508.06246).
+
+5. **F. Tang**, D. Y. Qiu\*, and X. Wu\*, Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-Bond Network, *Physical Review X*, **2025**, *15*, 011048. [arXiv:2411.15688](https://arxiv.org/abs/2411.15688).
+
+6. **F. Tang**, Z. Li, C. Zhang, S. G. Louie\*, R. Car\*, D. Y. Qiu\*, and X. Wu\*, Many-Body Effects in the X-ray Absorption Spectra of Liquid Water, *Proceedings of the National Academy of Sciences of the United States of America*, **2022**, *119*, e2201258119. [arXiv:2201.09942](https://arxiv.org/abs/2201.09942).
+
+7. **F. Tang\***, K. Shi, and X. Wu, Exploring the Impact of Ions on Oxygen K-Edge X-ray Absorption Spectroscopy in NaCl Solution Using the GW–Bethe–Salpeter-Equation Approach, *The Journal of Chemical Physics*, **2023**, *159*, 174501. [arXiv:2307.08215](https://arxiv.org/abs/2307.08215).
+
+8. **F. Tang**, J. Xu, D. Y. Qiu\*, and X. Wu\*, Nuclear Quantum Effects on the Quasiparticle Properties of the Chloride Anion Aqueous Solution within the GW Approximation, *Physical Review B*, **2021**, *104*, 035117. [arXiv:2106.14926](https://arxiv.org/abs/2106.14926).
+
+---
+
+## 2. AI-Driven Multimodal Spectroscopy for Catalysis and Electrochemistry（面向催化与电化学的人工智能多模态谱学）
+
+This research is supported by the **National Key R&D Program of China (国家重点研发计划)** in **Catalysis Science (催化科学)** and related research programs in computational spectroscopy and artificial intelligence.
+
+Spectroscopy is one of the most important tools for identifying active structures, reaction intermediates, solvation environments, and dynamic transformations in chemistry. However, interpreting spectra from realistic catalytic and electrochemical systems remains challenging because these systems are heterogeneous, dynamic, and often characterized by non-unique structure–spectrum relationships.
+
+We develop **physics-informed and interpretable artificial intelligence methods** to transform spectroscopy from a primarily experience-driven characterization tool into a quantitative approach for structural inference and chemical mechanism discovery.
+
+
+
+### 2.1 Physics-Informed Forward and Inverse Spectroscopy（物理信息驱动的光谱正问题与反问题）
 
 Conventional computational spectroscopy primarily addresses the forward problem:
 
@@ -120,7 +123,7 @@ Our research seeks to answer several fundamental questions:
 
 By addressing these questions quantitatively, we aim to establish the theoretical foundation for intelligent spectral interpretation.
 
-### 2.3 Multimodal Structure–Spectrum–Property Models for Catalysis and Electrochemistry（面向催化与电化学的多模态谱–构–效模型）
+### 2.2 Multimodal Structure–Spectrum–Property Models for Catalysis and Electrochemistry（面向催化与电化学的多模态谱–构–效模型）
 
 Real chemical systems are rarely characterized by a single spectroscopy.
 
@@ -136,22 +139,16 @@ The long-term vision is to establish an interpretable framework:
 
 ### Selected Publications
 
-1. F. Xu, W. Guo, F. Wang, L. Yao, H. Wang, **F. Tang**, Z. Gao, L. Zhang, W. E, Z.-Q. Tian, and J. Cheng,
-   *Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts*,
-   **Nature Computational Science**, 2025, **5**, 292–300.
+1. S. Zhong, B. Huang, P. Xu, F. Xu, Y. Zhao, J. Cheng\*, **F. Tang\***, W. E, and Z.-Q. Tian, Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning, *arXiv*, **2026**, [arXiv:2603.27684](https://arxiv.org/abs/2603.27684). **Preprint**.
 
-2. Q. You, Y. Sun, F. Wang, J. Cheng, and **F. Tang**,
-   *Decoding the Competing Effects of Dynamic Solvation Structures on NMR Chemical Shifts of Battery Electrolytes via Machine Learning*,
-   **Journal of the American Chemical Society**, 2025, **147**, 14667–14676.
+2. F. Xu, J. Hu, J. Zou, J. Wang, B. Huang, Z. Gao, X. Ji\*, W. E, Z.-Q. Tian, **F. Tang\***, and J. Cheng\*, NMRPeak: a ready-to-use intelligent system for molecular structure elucidation enabled by synergistic cross-modal learning, *Nature Communications*, **2026**, accepted. [arXiv:2602.08752](https://arxiv.org/abs/2602.08752).
 
-3. X. Du, J. Cheng, and **F. Tang**,
-   *Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water*,
-   **The Journal of Physical Chemistry Letters**, 2026, **17**, 1471–1478.
+3. S. Zhong, Y. Zhao, B. Huang, F. Xu, P. Xu, H. Tao, X. Fang\*, J. Cheng\*, and **F. Tang\***, Uni-XAS: Alignment-Driven Bidirectional Multimodal Learning for X-ray Absorption Spectroscopy, *Proceedings of the 34th ACM International Conference on Multimedia (ACM MM)*, **2026**, accepted. [arXiv:2607.20906](https://arxiv.org/abs/2607.20906).
 
-4. X. Du, W. Shao, C. Bao, L. Zhang, J. Cheng, and **F. Tang**,
-   *Revealing the Molecular Structures of α-Al₂O₃(0001)–Water Interface by Machine Learning-Based Computational Vibrational Spectroscopy*,
-   **The Journal of Chemical Physics**, 2024, **161**, 124702.
-   *JCP Editor's Pick.*
+4. F. Xu, W. Guo, F. Wang, L. Yao, H. Wang, **F. Tang\***, Z. Gao\*, L. Zhang, W. E, Z.-Q. Tian, and J. Cheng\*, Toward a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts, *Nature Computational Science*, **2025**, *5*, 292–300. [arXiv:2408.15681](https://arxiv.org/abs/2408.15681).
+
+
+
 
 ---
 
@@ -214,18 +211,16 @@ By linking molecular structure, dynamics, and spectroscopy, we aim to understand
 
 ### Selected Publications
 
-1. Y. Wang, **F. Tang**, X. Yu, K.-Y. Chiang, C.-C. Yu, T. Ohto, Y. Chen, Y. Nagata, and M. Bonn,
-   *Interfaces Govern Structure of Angstrom-Scale Confined Water Solutions*,
-   **Nature Communications**, 2025, **16**, 7288.
+1. M. Xia, X. Du, C. Wang, J. Liu, Z. Zhou, Y.-R. Qiu, Y.-H. Wang, **F. Tang\***, and S. Hu\*, Ion-Disrupted Hydrogen-Bond Networks Enable Fast Water Transport under Two-Dimensional Confinement, *Nature Communications*, **2026**, *17*, 8585.
 
-2. Y. Wang, **F. Tang**, X. Yu, T. Ohto, Y. Nagata, and M. Bonn,
-   *Heterodyne-Detected Sum-Frequency Generation Vibrational Spectroscopy Reveals Aqueous Molecular Structure at the Suspended Graphene/Water Interface*,
-   **Angewandte Chemie International Edition**, 2024, **63**, e202319503.
+2. X. Du, J. Cheng\*, and **F. Tang\***, Machine-Learning Accelerated Computational Spectroscopy Reveals Vibrational Signature of the Oxidation Level of Graphene in Contact with Water, *The Journal of Physical Chemistry Letters*, **2026**, *17*, 1471–1478. [arXiv:2507.00364](https://arxiv.org/abs/2507.00364).
 
-3. **F. Tang**, T. Ohto, S. Sun, J. R. Rouxel, S. Imoto, E. H. G. Backus, S. Mukamel, M. Bonn, and Y. Nagata,
-   *Molecular Structure and Modeling of Water–Air and Ice–Air Interfaces Monitored by Sum-Frequency Generation*,
-   **Chemical Reviews**, 2020, **120**, 3633–3667.
+3. Y. Wang\#, **F. Tang\#**, X. Yu, K.-Y. Chiang, C.-C. Yu, T. Ohto, Y. Chen, Y. Nagata\*, and M. Bonn\*, Interfaces Govern Structure of Angstrom-Scale Confined Water Solutions, *Nature Communications*, **2025**, *16*, 7288. [arXiv:2310.10354](https://arxiv.org/abs/2310.10354).
 
-4. S. Sun, **F. Tang**, S. Imoto, D. R. Moberg, T. Ohto, F. Paesani, M. Bonn, and Y. Nagata,
-   *Orientational Distribution of Free OH Groups of Interfacial Water Is Exponential*,
-   **Physical Review Letters**, 2018, **121**, 246101.
+4. Y. Wang\#, **F. Tang#**, X. Yu, T. Ohto, Y. Nagata\*, and M. Bonn\*, Heterodyne-Detected Sum-Frequency Generation Vibrational Spectroscopy Reveals Aqueous Molecular Structure at the Suspended Graphene/Water Interface, *Angewandte Chemie International Edition*, **2024**, *63*, e202319503.
+
+5. X. Du, W. Shao, C. Bao, L. Zhang, J. Cheng\*, and **F. Tang\***, Revealing the Molecular Structures of α-Al₂O₃(0001)–Water Interface by Machine Learning-Based Computational Vibrational Spectroscopy, *The Journal of Chemical Physics*, **2024**, *161*, 124702. JCP Editor’s Pick. [arXiv:2407.15338](https://arxiv.org/abs/2407.15338).
+
+6. **F. Tang**, T. Ohto, S. Sun, J. R. Rouxel, S. Imoto, E. H. G. Backus, S. Mukamel, M. Bonn, and Y. Nagata\*, Molecular Structure and Modeling of Water–Air and Ice–Air Interfaces Monitored by Sum-Frequency Generation, *Chemical Reviews*, **2020**, *120*, 3633–3667.
+
+7. S. Sun\#, **F. Tang\#**, S. Imoto, D. R. Moberg, T. Ohto, F. Paesani, M. Bonn\*, E. H. G. Backus\*, and Y. Nagata\*, Orientational Distribution of Free OH Groups of Interfacial Water Is Exponential, *Physical Review Letters*, **2018**, *121*, 246101.
