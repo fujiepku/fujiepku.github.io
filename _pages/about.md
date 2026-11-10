@@ -13,11 +13,25 @@ Our research lab specializes in **multimodal spectroscopic computational simulat
 
 We aim to provide deeper insights into the microscopic structures at complex interfaces, contributing to advancements in **materials science**, **water science**, **electrochemistry** and related fields.
 
-Last update: 2026-10-21
+Last update: 2026-11-09
 
 
 News
 ======
+
+**Nov. 9, 2026**
+
+Our new international collaborative work with colleagues at the **Max Planck Institute for Polymer Research** and **Nagoya University**, “Two Distinct Types of Free O-H Groups at the Water-Air Interface,” has been accepted by **Physical Review Letters**.
+
+Combining polarization-resolved HD-SFG spectroscopy with molecular simulations, we reveal that the free O–H signal predominantly originates from structured water molecules below the surface, revising the common picture that it mainly probes the outermost molecules protruding into the vapor.
+
+Xianglong Du and Fujie Tang contributed the molecular dynamics simulations, SFG calculations, and microscopic interpretation. Our calculations distinguish two interfacial water populations: triply hydrogen-bonded molecules below the surface dominate the free O–H response, while doubly hydrogen-bonded molecules closer to the vapor contribute less because of their more disordered orientations. These results explain the experimentally inferred subsurface location of free O–H groups and clarify how hydrogen-bond coordination and molecular orientation shape surface vibrational spectra.
+
+Link to the paper: [Physical Review Letters, accepted (2026)](https://journals.aps.org/prl/accepted/10.1103/vdk8-2llh).
+
+Congratulations to Xianglong and all collaborators!!!
+
+
 
 
 **Oct. 21, 2026**
