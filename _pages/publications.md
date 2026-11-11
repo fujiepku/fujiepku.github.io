@@ -21,7 +21,7 @@ author_profile: true
 
 <li>Suyang Zhong#, Boying Huang#, Pengwei Xu#, Fanjie Xu, Yuhao Zhao, Jun Cheng*, <b>Fujie Tang*</b>, Weinan E, Zhong-Qun Tian. Solving the inverse problem of X-ray absorption spectroscopy via physics-informed deep learning. Submitted. (∗corresponding author)</li>
 
-<li>Chun-Chieh Yu#, Xianglong Du#, Kuo-Yang Chiang, Johannes Hunger, Mischa Bonn, <b>Fujie Tang*</b>, and Yuki Nagata*. Two Distinct Types of Free O-H Groups at the Water-Air Interface. <b><i>Phys. Rev. Lett.</i></b>, 2026, accepted. (∗corresponding author)</li>
+<li>Chun-Chieh Yu#, Xianglong Du#, Hyuga Kato, Kuo-Yang Chiang, Tatsuhiko Ohto, Johannes Hunger, Mischa Bonn, <b>Fujie Tang*</b>, and Yuki Nagata*. Two Distinct Types of Free O-H Groups at the Water-Air Interface. <b><i>Phys. Rev. Lett.</i></b>, 2026, accepted. (∗corresponding author)</li>
 
 <li>Zixuan Wei, Ying Xiang, Hesam Makki, Wanlin Xu, Xingli Chen, Chao Deng, ShengBi, Xiaohui Yang, Yan Sun, Feng Wang*, Jianhua Chen*, Paola Carbone, <b>Fujie Tang*</b>, Alessandro Troisi, Jun Cheng*. Beyond Swelling: Electrochemical Doping Tunes the Balance between Ion Compensation and Exchange in a Hydrated Organic Mixed Ionic–Electronic Conductor. <b><i>J. Am. Chem. Soc.</i></b>, 2026, accepted. (∗corresponding author)</li>
 
@@ -46,7 +46,7 @@ author_profile: true
 
 <li>Qi You, Yan Sun, Feng Wang, Jun Cheng∗, <b>Fujie Tang∗</b>. Decoding the Competing Effects of Dynamic Solvation Structures on Nuclear Magnetic Resonance Chemical Shifts of Battery Electrolytes via Machine Learning. <b><i>J. Am. Chem. Soc.</i></b>, 2025, 147, 14667–14676. (∗corresponding author)</li>
 
-<li>Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, <b>Fujie Tang∗</b>, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. <b><i>Nat. Comput. Sci.</i></b>, 2025, 15, 292–300. (∗corresponding author)</li>
+<li>Fanjie Xu, Wentao Guo, Feng Wang, Lin Yao, Hongshuai Wang, <b>Fujie Tang∗</b>, Zhifeng Gao∗, Linfeng Zhang, Weinan E, Zhong-Qun Tian, Jun Cheng∗. Towards a Unified Benchmark and Framework for Deep Learning-Based Prediction of Nuclear Magnetic Resonance Chemical Shifts. <b><i>Nat. Comput. Sci.</i></b>, 2025, 5, 292–300. (∗corresponding author)</li>
 
 <li><b>Fujie Tang</b>, Diana Y. Qiu and Xifan Wu. Optical Absorption Spectroscopy Probes Water Wire and Its Ordering in a Hydrogen-bond Network. <b><i>Phys. Rev. X</i></b>. 2025, 15, 011048.</li>
 <u><i>Featured news in Viewpoint of Physics magazine “Shedding Light on Water Wires” by Davide Donadio and Giulia Galli.</i></u>
